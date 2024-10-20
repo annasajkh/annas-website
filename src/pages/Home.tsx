@@ -38,6 +38,8 @@ export default function Home() {
                 </div>
             </div>
 
+            <div className="spacing" />
+
             <h1 className="header-text beginning-text">Highlights</h1>
 
             <div className="highlights-container">
