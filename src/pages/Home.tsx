@@ -42,7 +42,7 @@ export default function Home() {
                 </div>
             </div>
 
-            <div className="spacing" />
+            <div className="spacing-home" />
 
             
             <div className="projects">
@@ -55,7 +55,7 @@ export default function Home() {
                 </div>
             </div>
             
-            <div className="spacing" />
+            <div className="spacing-home" />
 
             <h1 className="header-text beginning-text">Highlights</h1>
 
@@ -85,7 +85,7 @@ export default function Home() {
                 <Project className="highlight-16" name="Neutron" description="C# framework to make application with webview it's like tauri but with c# backend" onClick={() => window.open("https://github.com/NeutronFramework")} />
             </div>
 
-            <div className="spacing-half" />
+            <div className="spacing-home-half" />
 
             <div className="social-media-container">
                 <ImageButton filePath={twitterXImgPath} onClick={() => window.open("https://x.com/AnnasVirtual")} />

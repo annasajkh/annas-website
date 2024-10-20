@@ -66,7 +66,7 @@ export default function Blog(props: Props) {
                     {markdownContent}
                 </Markdown>
             </div>
-            <div className="spacing" />
+            <div className="spacing-blog" />
         </>
     );
 }

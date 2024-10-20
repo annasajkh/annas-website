@@ -24,22 +24,22 @@
     padding-right: 64px;
 }
 
-.spacing {
+.spacing-home {
     height: 50dvh;
 }
 
 @media (max-width: 1151px) {
-    .spacing {
+    .spacing-home {
         height: 25dvh;
     }
 }
 
-.spacing-half {
+.spacing-home-half {
     height: 25dvh;
 }
 
 @media (max-width: 1151px) {
-    .spacing-half {
+    .spacing-home-half {
         height: 12.5dvh;
     }
 }
@@ -53,8 +53,6 @@
         padding-right: 32px;
     }
 }
-
-
 
 .projects {
     display: flex;
