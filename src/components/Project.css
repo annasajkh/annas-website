@@ -19,13 +19,13 @@
 .project-name {
     text-align: center;
     color: white;
-    font-size: 32px;
+    font-size: 24px;
 }
 
 .project-description {
     text-align: center;
     color: white;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 @media (max-width: 816px) {
