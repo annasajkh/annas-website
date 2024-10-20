@@ -7,7 +7,6 @@ import Skill from "../components/Skill";
 
 import twitterXImgPath from "../assets/social_media/twitter_x.jpg";
 import youtubeImgPath from "../assets/social_media/youtube.png";
-import instagramImgPath from "../assets/social_media/instagram.jpg";
 import discordImgPath from "../assets/social_media/discord.jpg";
 import linktreeImgPath from "../assets/social_media/linktree.png";
 
@@ -18,6 +17,11 @@ import pythonImgPath from "../assets/skills/python.png"
 import reactImgPath from "../assets/skills/react.png"
 import typescriptImgPath from "../assets/skills/typescript.png"
 import libgdxImgPath from "../assets/skills/libgdx.png"
+
+import githubIconPath from "../assets/projects/github.png"
+import itchIOIconPath from "../assets/projects/itch_io.png"
+import replitIconPath from "../assets/projects/replit.jpg"
+
 
 export default function Home() {
     return (
@@ -38,6 +42,19 @@ export default function Home() {
                 </div>
             </div>
 
+            <div className="spacing" />
+
+            
+            <div className="projects">
+                <h1 className="project-text">You can find all of my projects on</h1>
+
+                <div className="project-platform-container">
+                    <ImageButton imageStyle="project-platform" filePath={githubIconPath} width={96} height={96} onClick={() => window.open("https://github.com/annasajkh")} />
+                    <ImageButton imageStyle="project-platform" filePath={itchIOIconPath} width={96} height={96} onClick={() => window.open("https://annasjk.itch.io")} />
+                    <ImageButton imageStyle="project-platform" filePath={replitIconPath} width={96} height={96} onClick={() => window.open("https://replit.com/@AnnasVirtual")} />
+                </div>
+            </div>
+            
             <div className="spacing" />
 
             <h1 className="header-text beginning-text">Highlights</h1>
@@ -68,10 +85,11 @@ export default function Home() {
                 <Project className="highlight-16" name="Neutron" description="C# framework to make application with webview it's like tauri but with c# backend" onClick={() => window.open("https://github.com/NeutronFramework")} />
             </div>
 
+            <div className="spacing-half" />
+
             <div className="social-media-container">
                 <ImageButton filePath={twitterXImgPath} onClick={() => window.open("https://x.com/AnnasVirtual")} />
                 <ImageButton filePath={youtubeImgPath} onClick={() => window.open("https://www.youtube.com/@AnnasVirtual")} />
-                <ImageButton filePath={instagramImgPath} onClick={() => window.open("https://www.instagram.com/annasvirtual")} />
                 <ImageButton filePath={discordImgPath} onClick={() => window.open("https://discord.gg/JfBvhYmCkC")} />
                 <ImageButton filePath={linktreeImgPath} onClick={() => window.open("https://linktr.ee/AnnasVirtual")} />
             </div>

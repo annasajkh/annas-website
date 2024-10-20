@@ -1,7 +1,6 @@
 import { HashRouter, Route, Routes } from "react-router-dom";
 import "./App.css";
 import Home from "./pages/Home";
-import Projects from "./pages/Projects";
 import Contact from "./pages/Contact";
 import MainArea from "./components/MainArea";
 import Blogs from "./pages/Blogs";
@@ -18,7 +17,6 @@ export default function App() {
                     <Routes>
                         <Route path="/" element={<Home />} />
                         <Route path="/home" element={<Home />} />
-                        <Route path="/projects" element={<Projects />} />
                         <Route path="/blogs" element={<Blogs />} />
                         <Route path="/contact" element={<Contact />} />
                     

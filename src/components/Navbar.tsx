@@ -32,10 +32,6 @@ export default function Navbar() {
                 <Selector text="Home" isSelected={selectedIndex === 0} />
             </Link>
 
-            <Link className="selector-link" to="/projects">
-                <Selector text="Projects" isSelected={selectedIndex === 1} />
-            </Link>
-
             <Link className="selector-link" to="/blogs">
                 <Selector text="Blogs" isSelected={selectedIndex === 2} />
             </Link>

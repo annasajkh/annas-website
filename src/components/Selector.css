@@ -37,10 +37,3 @@
         padding-right: 32px;
     }
 }
-
-@media (max-width: 600px) {
-    .selector-container {
-        padding-left: 8px;
-        padding-right: 8px;
-    }
-}
