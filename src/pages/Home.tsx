@@ -20,28 +20,28 @@ import typescriptImgPath from "../assets/skills/typescript.png"
 import libgdxImgPath from "../assets/skills/libgdx.png"
 
 export default function Home() {
-	return (
-		<div className="home">
-				<Profile />
+    return (
+        <div className="home">
+            <Profile />
 
             <h1 className="header-text center-text">Skills</h1>
 
-			<div className="skills-container">
+            <div className="skills-container">
                 <div className="skills">
-                    <Skill filePath={csharpImgPath} skillName="C#" onClick={() => window.open("https://github.com/annasajkh?tab=repositories&q=&type=&language=c%23&sort=")}/>
-                    <Skill filePath={godotImgPath} skillName="Godot" onClick={() => window.open("https://github.com/annasajkh?tab=repositories&q=topic%3Agodot&type=&language=&sort=")}/>
-                    <Skill filePath={javaImgPath} skillName="Java" onClick={() => window.open("https://github.com/annasajkh?tab=repositories&q=&type=&language=java&sort=")}/>
-                    <Skill filePath={pythonImgPath} skillName="Python" onClick={() => window.open("https://github.com/annasajkh?tab=repositories&q=&type=&language=python&sort=")}/>
-                    <Skill filePath={reactImgPath} skillName="React" onClick={() => window.open("https://github.com/annasajkh?tab=repositories&q=topic%3Areact&type=&language=&sort=")}/>
-                    <Skill filePath={typescriptImgPath} skillName="Typescript" onClick={() => window.open("https://github.com/annasajkh?tab=repositories&q=&type=&language=typescript&sort=")}/>
-                    <Skill filePath={libgdxImgPath} skillName="LibGDX" onClick={() => window.open("https://github.com/annasajkh?tab=repositories&q=topic%3Alibgdx&type=&language=&sort=")}/>
+                    <Skill filePath={csharpImgPath} skillName="C#" onClick={() => window.open("https://github.com/annasajkh?tab=repositories&q=&type=&language=c%23&sort=")} />
+                    <Skill filePath={godotImgPath} skillName="Godot" onClick={() => window.open("https://github.com/annasajkh?tab=repositories&q=topic%3Agodot&type=&language=&sort=")} />
+                    <Skill filePath={javaImgPath} skillName="Java" onClick={() => window.open("https://github.com/annasajkh?tab=repositories&q=&type=&language=java&sort=")} />
+                    <Skill filePath={pythonImgPath} skillName="Python" onClick={() => window.open("https://github.com/annasajkh?tab=repositories&q=&type=&language=python&sort=")} />
+                    <Skill filePath={reactImgPath} skillName="React" onClick={() => window.open("https://github.com/annasajkh?tab=repositories&q=topic%3Areact&type=&language=&sort=")} />
+                    <Skill filePath={typescriptImgPath} skillName="Typescript" onClick={() => window.open("https://github.com/annasajkh?tab=repositories&q=&type=&language=typescript&sort=")} />
+                    <Skill filePath={libgdxImgPath} skillName="LibGDX" onClick={() => window.open("https://github.com/annasajkh?tab=repositories&q=topic%3Alibgdx&type=&language=&sort=")} />
                 </div>
-			</div>
+            </div>
 
             <h1 className="header-text beginning-text">Highlights</h1>
 
             <div className="highlights-container">
-                <Project className="highlight-1" name="Annas Engine" description="Game engine i made for learning OpenTK (C# binding of OpenGL)" onClick={() => window.open("https://github.com/annasajkh/AnnasEngine")}/>
+                <Project className="highlight-1" name="Annas Engine" description="Game engine i made for learning OpenTK (C# binding of OpenGL)" onClick={() => window.open("https://github.com/annasajkh/AnnasEngine")} />
                 <Project className="highlight-2" name="World Tweaker" description="Oneshot mod manager that i made in like 2 weeks for testing electron" onClick={() => window.open("https://github.com/annasajkh/world-tweeker")} />
 
                 <Project className="highlight-3" name="Minecraft 2D" description="A Terraria + Minecraft like game written in libgdx" onClick={() => window.open("https://github.com/annasajkh/Minecraft2D")} />
@@ -74,6 +74,6 @@ export default function Home() {
                 <ImageButton filePath={linktreeImgPath} onClick={() => window.open("https://linktr.ee/AnnasVirtual")} />
             </div>
 
-		</div>
-	);
+        </div>
+    );
 }
