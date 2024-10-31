@@ -27,7 +27,7 @@ export default function Navbar() {
     const selectedIndex = getSelectedIndex();
 
     return (
-        <div className="navbar">
+        <header className="navbar">
             <Link className="selector-link" to="/">
                 <Selector text="Home" isSelected={selectedIndex === 0} />
             </Link>
@@ -39,6 +39,6 @@ export default function Navbar() {
             <Link className="selector-link" to="/contact">
                 <Selector text="Contact" isSelected={selectedIndex === 3} />
             </Link>
-        </div>
+        </header>
     );
 }
