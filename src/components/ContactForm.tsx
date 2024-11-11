@@ -43,7 +43,7 @@ export default function ContactForm() {
         setIsPassedCaptcha(false);
     };
 
-    function handleVerificationSuccess(token: any, ekey: any) {
+    function handleVerificationSuccess() {
         setIsPassedCaptcha(true);
     }
 
