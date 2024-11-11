@@ -17,7 +17,14 @@ export default function ContactForm() {
         formData.append("access_key", "b3a5d8cd-26ec-4907-967e-2ba2e28f4bf1"); // This is public, so it's fine to use here
 
         const object = Object.fromEntries(formData);
+
+        delete object["g-recaptcha-response"];
+        delete object["h-captcha-response"];
+        
+        console.log(object);
+
         const json = JSON.stringify(object);
+
 
         try {
             const response = await fetch("https://api.web3forms.com/submit", {
