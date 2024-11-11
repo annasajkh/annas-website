@@ -20,8 +20,6 @@ export default function ContactForm() {
 
         delete object["g-recaptcha-response"];
         delete object["h-captcha-response"];
-        
-        console.log(object);
 
         const json = JSON.stringify(object);
 
