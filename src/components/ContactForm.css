@@ -113,12 +113,20 @@ input[data-autocompleted] {
     height: 64px;
 }
 
-.contact-form-submit-button:hover {
-    background-color: var(--item-hover-color);
+.contact-form-submit-button {
     cursor: pointer;
 }
 
-.contact-form-submit-button:active {
+.contact-form-submit-button:disabled {
+    scale: 1;
+    cursor: not-allowed;
+    background-image: linear-gradient(rgb(0 0 0/40%) 0 0);
+}
+
+.contact-form-submit-button:active:not(:disabled) {
     scale: 1.05;
-    cursor: pointer;
+}
+
+.contact-form-submit-button:hover:not(:disabled) {
+    background-color: var(--item-hover-color);
 }
