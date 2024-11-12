@@ -4,6 +4,7 @@
     flex-direction: column;
     background-color: var(--item-color);
     border: 1px solid var(--border-color);
+    box-shadow: 0 0 10px var(--border-color);
     width: 128px;
     height: 176px;
     border-radius: 4px;
@@ -16,7 +17,9 @@
 
 .skill:hover {
     cursor: pointer;
-    scale: 1.1;
+    scale: 1.05;
+    border: 1px solid var(--border-color-focused);
+    box-shadow: 0 0 10px var(--border-color-focused);
 }
 
 .skill-img {

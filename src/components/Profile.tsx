@@ -17,7 +17,10 @@ export default function Profile() {
 
     return (
         <div className="profile">
-            <img className="profile-img" src={isMouseDown ? annasHappyPath : annasNormalPath} onMouseEnter={onMouseEnter} onMouseLeave={onMouseLeave} />
+            <div className="profile-img-container">
+                <img className="profile-img" src={isMouseDown ? annasHappyPath : annasNormalPath} onMouseEnter={onMouseEnter} onMouseLeave={onMouseLeave} />
+            </div>
+
             <p className="profile-description">Hi, my name is Annas i like to code and draw</p>
         </div>
     );

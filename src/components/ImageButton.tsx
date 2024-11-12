@@ -11,7 +11,9 @@ type Props = {
 export default function ImageButton({imageStyle = "", filePath, onClick, width = 48, height = 48}: Props) {
   return (
     <div className="image-button" onClick={onClick}>
-        <img width={width} height={height} className={`image-button-image ${imageStyle}`} src={filePath} />
+        <div>
+            <img width={width} height={height} className={`image-button-image ${imageStyle}`} src={filePath} />
+        </div>
     </div>
   )
 }

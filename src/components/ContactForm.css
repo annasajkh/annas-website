@@ -27,6 +27,7 @@ input[data-autocompleted] {
     flex-direction: column;
     background-color: var(--item-color);
     border: 1px solid var(--border-color);
+    box-shadow: 0 0 10px var(--border-color);
     border-radius: 4px;
     width: 512px;
     height: 512px;

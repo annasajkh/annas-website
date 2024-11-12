@@ -1,9 +1,9 @@
 :root {
     --item-color: #19202a;
-    --background-color: #1e2531;
+    --background-color:  #1e2531;
     --item-hover-color: #222a35;
     --border-color: #30363d;
-    --border-color-focused: #363d44;
+    --border-color-focused: #3a414a;
 
 	background: var(--background-color);
 	font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", Segoe UI Symbol, "Noto Color Emoji";
