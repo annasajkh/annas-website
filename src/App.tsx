@@ -7,7 +7,7 @@ import Blogs from "./pages/Blogs";
 import Navbar from "./components/Navbar";
 import Blog from "./components/Blog";
 import { Analytics } from "@vercel/analytics/react"
-import { SpeedInsights } from "@vercel/speed-insights/next"
+import { SpeedInsights } from "@vercel/speed-insights/react"
 
 export default function App() {
     return (
