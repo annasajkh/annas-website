@@ -1,28 +1,22 @@
 import { FormEvent, useState } from "react";
 import "./ContactForm.css";
 import loadingCircleGifPath from "../assets/gifs/loading-circle-loading.gif"
-import HCaptcha from '@hcaptcha/react-hcaptcha';
 
 
 export default function ContactForm() {
     const [isSubmiting, setIsSubmiting] = useState(false);
-    const [isPassedCaptcha, setIsPassedCaptcha] = useState(false);
     const [isSuccess, setIsSuccess] = useState(false);
     const [isFailed, setIsFailed] = useState(false);
 
     const onSubmit = async (event: FormEvent<HTMLFormElement>) => {
+        setIsSubmiting(true);
         event.preventDefault();
         const formData = new FormData(event.target as HTMLFormElement);
 
         formData.append("access_key", "b3a5d8cd-26ec-4907-967e-2ba2e28f4bf1"); // This is public, so it's fine to use here
 
         const object = Object.fromEntries(formData);
-
-        delete object["g-recaptcha-response"];
-        delete object["h-captcha-response"];
-
         const json = JSON.stringify(object);
-
 
         try {
             const response = await fetch("https://api.web3forms.com/submit", {
@@ -45,16 +39,7 @@ export default function ContactForm() {
         }
 
         setIsSubmiting(false);
-        setIsPassedCaptcha(false);
     };
-
-    function handleVerificationSuccess() {
-        setIsPassedCaptcha(true);
-    }
-
-    function isSubmitButtonPressed() {
-        setIsSubmiting(true);
-    }
 
     function formUI() {
         return (
@@ -63,10 +48,7 @@ export default function ContactForm() {
                 <input type="email" name="email" placeholder="Your Email" className="contact-form-email" required />
                 <textarea name="message" placeholder="Your Message" className="contact-form-message" required />
                 <input type="hidden" name="redirect" value="https://web3forms.com/success" />
-
-                <HCaptcha sitekey="4fa46b58-4b60-4e6e-9086-811a28ec7a4e" onVerify={handleVerificationSuccess} />
-
-                <button onClick={isSubmitButtonPressed} disabled={!isPassedCaptcha} type="submit" className="contact-form-submit-button">{isSubmiting && isPassedCaptcha ? <img src={loadingCircleGifPath} width={32} height={32} /> : "Submit"}</button>
+                <button disabled={isSubmiting} type="submit" className="contact-form-submit-button">{isSubmiting ? <img src={loadingCircleGifPath} width={32} height={32} /> : "Submit"}</button>
             </form>
         );
     }
