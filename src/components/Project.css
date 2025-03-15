@@ -14,7 +14,7 @@
 
 .project:hover {
     cursor: pointer;
-    border: 1px solid var(--border-color-focused);
+    border: 1px solid white;
     box-shadow: 0 0 10px var(--border-color-focused);
 }
 
