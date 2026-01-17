@@ -8,15 +8,15 @@ export default function Blogs() {
   return (
     <div className="blogs">
         <BlogThumbnail title="My Belief System" date="January 16, 2026" onClick={() => {
-            navigate("/blog3")
+            navigate("/my_belief_system")
         }} />
 
         <BlogThumbnail title="Has My Subconscious Been Orchestrating This All Along?" date="January 16, 2026" onClick={() => {
-            navigate("/blog2")
+            navigate("/has_my_subconscious_been_orchestrating_this_all_along")
         }} />
 
         <BlogThumbnail title="Why I Think C# Is The Most Beautiful Programming Language" date="September 30, 2024" onClick={() => {
-            navigate("/blog1")
+            navigate("/why_i_think_cs_is_the_most_beautiful_programming_language")
         }} />
     </div>
   )
