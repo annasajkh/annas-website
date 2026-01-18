@@ -8,7 +8,7 @@ export default function Blogs() {
   return (
     <div className="blogs">
         <BlogThumbnail title="My Quote" date="January 18, 2026" onClick={() => {
-            navigate("/my_quote.md")
+            navigate("/my_quote")
         }} />
 
         <BlogThumbnail title="Has My Subconscious Been Orchestrating This All Along?" date="January 16, 2026" onClick={() => {
