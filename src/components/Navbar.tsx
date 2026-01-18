@@ -9,7 +9,7 @@ export default function Navbar() {
         if (location.pathname.toLowerCase().includes("blog")) {
             return 2;
         }
-
+        
         switch (location.pathname.toLowerCase()) {
             case "/":
                 return 0;
