@@ -38,7 +38,7 @@ export default function Blog(props: Props) {
 
                     <p className="blog-date">{props.date}</p>
                 </div>
-
+                
                 <Markdown
                     className="markdown-content"
                     components={{

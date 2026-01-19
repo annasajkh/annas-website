@@ -1,5 +1,4 @@
 # Introduction
----
 
 C# has been a critized to be Microsoft copied of Java because its syntax is **very** similar to java
 #### Java Hello World

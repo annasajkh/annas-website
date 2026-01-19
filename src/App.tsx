@@ -24,10 +24,11 @@ export default function App() {
                         <Route path="/home" element={<Home />} />
                         <Route path="/blogs" element={<Blogs />} />
                         <Route path="/contact" element={<Contact />} />
-                    
-                        <Route path="blogs/why_i_think_cs_is_the_most_beautiful_programming_language" element={<Blog title="Why I Think C# Is The Most Beautiful Programming Language" date="September 30, 2024" markdownContentPath="/blogs/why_i_think_cs_is_the_most_beautiful_programming_language.md"  />} />
-                        <Route path="blogs/has_my_subconscious_been_orchestrating_this_all_along" element={<Blog title="Has my subconscious been orchestrating this all along?" date="January 16, 2026" markdownContentPath="/blogs/has_my_subconscious_been_orchestrating_this_all_along.md"  />} />
+
+                        <Route path="blogs/does_my_subconscious_plan_stuff_or_not" element={<Blog title="Does My Subconscious Plan Stuff Or Not" date="January 19, 2026" markdownContentPath="/blogs/does_my_subconscious_plan_stuff_or_not.md"  />} />
                         <Route path="blogs/my_quote" element={<Blog title="My Quote" date="January 18, 2026" markdownContentPath="/blogs/my_quote.md"  />} />
+                        <Route path="blogs/has_my_subconscious_been_orchestrating_this_all_along" element={<Blog title="Has my subconscious been orchestrating this all along?" date="January 16, 2026" markdownContentPath="/blogs/has_my_subconscious_been_orchestrating_this_all_along.md"  />} />
+                        <Route path="blogs/why_i_think_cs_is_the_most_beautiful_programming_language" element={<Blog title="Why I Think C# Is The Most Beautiful Programming Language" date="September 30, 2024" markdownContentPath="/blogs/why_i_think_cs_is_the_most_beautiful_programming_language.md"  />} />
                     </Routes>
                 </MainArea>
             </HashRouter>

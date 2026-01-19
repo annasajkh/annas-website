@@ -7,6 +7,11 @@ export default function Blogs() {
 
   return (
     <div className="blogs">
+        
+        <BlogThumbnail title="Does My Subconscious Plan Stuff Or Not" date="January 19, 2026" onClick={() => {
+            navigate("does_my_subconscious_plan_stuff_or_not")
+        }} />
+        
         <BlogThumbnail title="My Quote" date="January 18, 2026" onClick={() => {
             navigate("my_quote")
         }} />
