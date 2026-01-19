@@ -1,0 +1,37 @@
+## My Quote
+---
+### The entire universe is the emergent properties of rules, we tried to discover and make sense of the rules using multiple level of abstractions.
+
+### We use math to map the rules to things we can calculate, many of the rules were too complex to map, but it doesn't stop us from trying to do that anyways using neuroscience, but we often use studies that's done with a lot of people and use logical assumptions to arrive at conclusion (psychology) the studies of behaviors, intelligence, and consciousness.
+
+### We as humanity are always trying to make sense of the rules of the universe, down from the quantum level using quantum mechanics, up to behaviors, intelligence, and consciousness using psychology, social systems, and neuroscience, and also the entire observable universe using general relativity, special relativity, thermodynamics, and entropy.
+
+### I have a logical assumptions about consciousness, but take it with big grain of salt because the sample size is only me, consciousness will arise in a continuous learning system with a sense of time with complex enough neural activation patterns, be it artificial or biological it doesn't matter, current llm models is not conscious because it's not continuous learning system at least not fully yet and it doesn't have complex enough neural activation patterns therefore not complex enough world model therefore no consciousness, but maybe it will be someday.
+
+## My Belive System
+---
+### I believe the existence of God because my logical assumption about the constants of the universe were too precises that even slight deviation cause the universe with no atoms, no stars, and no life.
+
+### The Multiverse Theory were too far fetched for me.
+
+### Then i read surah al baqarah verse 20, "It is as if the lightning were about to snatch away their sight. Whenever lightning strikes, they walk in its light, but when darkness covers them, they stand still."
+
+### I see the light it's science and i know many of the rules of the universe, Then i have a logical assumptions about the rules of the universe, "The rules of the universe seem too intentional", Then i just see where the light come from lightning (God), I will not choose to stand still and ignore the source of the light.
+
+### "It is as if the lightning were about to snatch away their sight. Whenever lightning strikes, they walk in its light, but when darkness covers them, they stand still.", is a riddle that explain alot of the different stuff simultaneously, like this can also describe addictions, that's my friend noticing that, or something else.
+
+### That's why God always say "don't listen to the whispers of iblis/demon/jin" God need to explain the concept of subconscious to people that barely know anything back then and science is still developing and not widely accepted yet.
+
+### I think God explain their words in a way people from centuries ago would understand for example, iblis/demon/jin and angel, so iblis/demon/jin represent negative side to the subconscious, and angel represent positive side of the subconscious.
+
+### All of those reason made me believe in God is real because those phrase feels crafted by highly intelligence being.
+
+### I also belief in God from my personal experiences.
+
+### Why God let bad things happened to good people? God is the most kind and merciful right? but God is also the most fair, and meddling in human affair is not fair, he only give his words centuries ago as his only signs.
+
+### I also belief that all the religions holy books contains some truth and describing the same God, but have inaccuracy because it was written centuries ago and misinformation is still prevalent today.
+
+### I think there is some inaccuracy still because there because there is questionable things in the quran, or things that doesn't align with science, and i think alot of it is a metaphors and a riddles.
+
+### I choose to belief in God because i feel like the rules of the universe seem too intentional and the final push to me believing in him is surah al baqarah verse 20, "It is as if the lightning were about to snatch away their sight. Whenever lightning strikes, they walk in its light, but when darkness covers them, they stand still."

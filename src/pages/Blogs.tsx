@@ -12,8 +12,8 @@ export default function Blogs() {
             navigate("does_my_subconscious_plan_stuff_or_not")
         }} />
         
-        <BlogThumbnail title="My Quote" date="January 18, 2026" onClick={() => {
-            navigate("my_quote")
+        <BlogThumbnail title="Myself" date="January 18, 2026" onClick={() => {
+            navigate("myself")
         }} />
 
         <BlogThumbnail title="Has My Subconscious Been Orchestrating This All Along?" date="January 16, 2026" onClick={() => {
