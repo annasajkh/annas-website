@@ -8,9 +8,9 @@
 
 ### I have a logical assumptions about consciousness, but take it with big grain of salt because the sample size is only me, consciousness will arise in a continuous learning system with a sense of time with complex enough neural activation patterns, be it artificial or biological it doesn't matter, current llm models is not conscious because it's not continuous learning system at least not fully yet and it doesn't have complex enough neural activation patterns therefore not complex enough world model therefore no consciousness, but maybe it will be someday.
 
-## My Belive System
+## My Belief System
 ---
-### I believe the existence of God because my logical assumption about the constants of the universe were too precises that even slight deviation cause the universe with no atoms, no stars, and no life.
+### I belief in the existence of God because my logical assumption about the constants of the universe were too precises that even slight deviation cause the universe with no atoms, no stars, and no life.
 
 ### The Multiverse Theory were too far fetched for me.
 
