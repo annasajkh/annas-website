@@ -12,9 +12,9 @@
 ---
 ### I belief in the existence of God because my assumption/philosophical mind when thinking about the constants of the universe were precise that even slight deviation cause the universe with no atoms, no stars, and no life.
 
-### I been trying so hard to prove or disprove the existence of God using science, at the end i arrive at the fine-tuning argument and then i know i can't use science anymore, i have to use my logical assumptions and a lot of theories
+### I been trying so hard to prove or disprove the existence of God using science, at the end i arrive at the fine-tuning argument and then i know i can't use science anymore, i have to use my logical assumptions and a lot of theories.
 
-### The Multiverse Theory were too far fetched for me. It is far fetched because i think any explanation that go against it always sound so complex and it just pure logic without your emotionally driven subconscious play in role or highly suppressed by their conscious logical self
+### The Multiverse Theory were too far fetched for me because i think any explanation that go against it always sound so complex and it just pure logic without their emotionally driven subconscious play in role or highly suppressed by their conscious logical self.
 
 ### Then i read surah al baqarah verse 20, "It is as if the lightning were about to snatch away their sight. Whenever lightning strikes, they walk in its light, but when darkness covers them, they stand still."
 
