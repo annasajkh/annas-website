@@ -7,12 +7,12 @@ export default function Blogs() {
 
   return (
     <div className="blogs">
-        <BlogThumbnail title="Does My Subconscious Plan Stuff Or Not" date="January 22, 2026" onClick={() => {
-            navigate("does_my_subconscious_plan_stuff_or_not")
-        }} />
-        
         <BlogThumbnail title="Myself" date="January 18, 2026" onClick={() => {
             navigate("myself")
+        }} />
+
+        <BlogThumbnail title="Does My Subconscious Plan Stuff Or Not" date="January 22, 2026" onClick={() => {
+            navigate("does_my_subconscious_plan_stuff_or_not")
         }} />
 
         <BlogThumbnail title="Has My Subconscious Been Orchestrating This All Along?" date="January 16, 2026" onClick={() => {
