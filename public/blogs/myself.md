@@ -16,6 +16,8 @@
 
 ### The Multiverse Theory were too far fetched for me because i think any explanation that go against it always sound so complex and it just pure logic without their emotionally driven subconscious play in role or highly suppressed by their conscious logical self.
 
+### "While I understand that the Multiverse is a mathematical possibility in certain physics models, I find the leap of faith required to believe in infinite unobservable universes to be greater than the leap of faith required to believe in an Intentional Rule-Maker."
+
 ### Then i read surah al baqarah verse 20, "It is as if the lightning were about to snatch away their sight. Whenever lightning strikes, they walk in its light, but when darkness covers them, they stand still."
 
 ### The lighting almost snatch away my sight also, i see the light too (science) because i have eyes that i can see the light (intelligence), Then i have an assumptions about the rules of the universe, "The rules of the universe seem too intentional", it almost blinded me also but i will not let it blind me, Then i just see where the light come from the lightning (God), I will not choose to stand still (choose my own ego/belief system i'm born with) and ignore the source of the light.
