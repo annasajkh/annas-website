@@ -14,6 +14,8 @@
 
 ### The Multiverse Theory were too far fetched for me.
 
+### I been trying so hard to prove or disprove the existence of God using science, at the end i arrive at the fine-tuning argument and then i know i can't use science anymore, i have to use my logical assumptions and gut feeling
+
 ### Then i read surah al baqarah verse 20, "It is as if the lightning were about to snatch away their sight. Whenever lightning strikes, they walk in its light, but when darkness covers them, they stand still."
 
 ### The lighting almost snatch away my sight also, i see the light too (science) because i have eyes that i can see the light (intelligence), Then i have an assumptions about the rules of the universe, "The rules of the universe seem too intentional", it almost blinded me also but i will not let it blind me, Then i just see where the light come from the lightning (God), I will not choose to stand still (choose my own ego/belief system i'm born with) and ignore the source of the light.
