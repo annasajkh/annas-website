@@ -36,4 +36,4 @@
 
 ### I choose to belief in God because i feel like the rules of the universe seem too intentional and the final push to me believing in him is surah al baqarah verse 20, "It is as if the lightning were about to snatch away their sight. Whenever lightning strikes, they walk in its light, but when darkness covers them, they stand still."
 
-### final riddle from me "The programmer was right, something is going on, SIOTU can see though time and manipulate the probabilities of events before it happened"
+### final riddle from me "The scientists was right, something is going on, SuperIntelligence Of The Universe can see though time and manipulate the probabilities of events before it happened"
