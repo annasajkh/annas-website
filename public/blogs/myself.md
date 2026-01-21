@@ -14,7 +14,7 @@
 
 ### The Multiverse Theory were too far fetched for me.
 
-### I been trying so hard to prove or disprove the existence of God using science, at the end i arrive at the fine-tuning argument and then i know i can't use science anymore, i have to use my logical assumptions and gut feeling
+### I been trying so hard to prove or disprove the existence of God using science, at the end i arrive at the fine-tuning argument and then i know i can't use science anymore, i have to use my logical assumptions and a lot of theories
 
 ### Then i read surah al baqarah verse 20, "It is as if the lightning were about to snatch away their sight. Whenever lightning strikes, they walk in its light, but when darkness covers them, they stand still."
 
