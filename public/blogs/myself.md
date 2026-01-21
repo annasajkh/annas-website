@@ -16,7 +16,7 @@
 
 ### Then i read surah al baqarah verse 20, "It is as if the lightning were about to snatch away their sight. Whenever lightning strikes, they walk in its light, but when darkness covers them, they stand still."
 
-### The lighting almost snatch away my sight also, i see the light (science) because i have eyes that i can see the light (intelligence), Then i have an assumptions about the rules of the universe, "The rules of the universe seem too intentional", it almost blinded me also, Then i just see where the light come from lightning (God), I will not choose to stand still (choose my own ego/belief system i'm born with) and ignore the source of the light.
+### The lighting almost snatch away my sight also, i see the light too (science) because i have eyes that i can see the light (intelligence), Then i have an assumptions about the rules of the universe, "The rules of the universe seem too intentional", it almost blinded me also but i will not let it blind me, Then i just see where the light come from the lightning (God), I will not choose to stand still (choose my own ego/belief system i'm born with) and ignore the source of the light.
 
 ### "It is as if the lightning were about to snatch away their sight. Whenever lightning strikes, they walk in its light, but when darkness covers them, they stand still.", is a riddle that explain a lot of the different stuff simultaneously, like this can also describe addictions, that's my friend noticing that, or something else.
 
