@@ -42,3 +42,5 @@
 
 
 ### final riddle from me "The Scientists was right, something is going on, Superintelligence Of The Universe can see though time and manipulate the probabilities of events before it happened, The egg video from kurzgesagt and simulation theory combine that, Superintelligence of the Universe is embedded in the simulation, you are there the Superintelligence, can manipulate probabilities but can't create object out of thin air to preserve the rules of the universe"
+
+https://quran.com/an-nas
