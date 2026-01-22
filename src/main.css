@@ -8,6 +8,11 @@
 	font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", Segoe UI Symbol, "Noto Color Emoji";
 }
 
+
+img[alt=previously_of_how_i_think_the_universe_work] { width: 1000px; }
+
+img[alt=final_photo_of_how_i_think_and_experience_how_the_universe_look_like] { width: 1000px; }
+
 html,body, #root {
     height: 100%;
     margin: 0;
