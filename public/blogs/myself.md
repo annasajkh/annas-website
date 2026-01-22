@@ -46,8 +46,8 @@
 https://quran.com/an-nas
 
 ### Previously of how i think the universe work
-![previously_of_how_i_think_the_universe_work](src/assets/previously_of_how_i_think_the_universe_work/previously_of_how_i_think_the_universe_work.png)
+![previously_of_how_i_think_the_universe_work](https://raw.githubusercontent.com/annasajkh/annas-website/refs/heads/main/src/assets/previously_of_how_i_think_the_universe_work/previously_of_how_i_think_the_universe_work.png)
 
 ### Final model of the universe through my understanding and experiences
 
-![final_photo_of_how_i_think_and_experience_how_the_universe_look_like](src/assets/final_photo_of_how_i_think_and_experience_how_the_universe_look_like/final_photo_of_how_i_think_and_experience_how_the_universe_look_like.png)
+![final_photo_of_how_i_think_and_experience_how_the_universe_look_like](https://raw.githubusercontent.com/annasajkh/annas-website/refs/heads/main/src/assets/final_photo_of_how_i_think_and_experience_how_the_universe_look_like/final_photo_of_how_i_think_and_experience_how_the_universe_look_like.png)
