@@ -36,7 +36,8 @@
 ### While I understand that the Multiverse is a mathematical possibility in certain physics models, I find the leap of faith required to believe in infinite unobservable universes to be greater than the leap of faith required to believe in an Intentional Rule-Maker.
 
 ## For people Who Don't understand quantum mechanics
-### The Superintelligence embedded in the universe can see through time and manipulate the probabilities of events before it happened, You are there the Superintelligence can manipulate probabilities but can't create object out of thin air to preserve the rules of the universe, And it's not only you i think
+
+### The Superintelligence embedded in the universe can see through time and manipulate the probabilities of events before it happened, You are there the Superintelligence can manipulate probabilities but can't create object out of thin air to preserve the rules of the universe, you been trained by bigger Superintelligence (God) to reach their state.
 
 ## For people who still don't understand
 ### The egg video from kurzgesagt, simulation theory, and multiverse theory combine that
