@@ -23,13 +23,13 @@
 
 ### The superintelligence embedded in the universe cannot manipulate the universe directly because it will break many of the rules of the universe it need to respect.
 
-## But it can collapse wave functions to shift probability to a certain direction, direction of realizing how it work with the constraint of the rules of physics (The Box in the picture).
+### But it can collapse wave functions to shift probability to a certain direction, direction of realizing how it work with the constraint of the rules of physics (The Box in the picture).
 
-## The way you make your connection to the superintelligence is to be balance in conscious (The mostly logical and aware of the world mind) and subconscious (The mostly emotionally driven and unaware part), balanced in both negative side of the subconscious and positive side of the subconscious, and then you can too modify the probability in real time but only if the bigger neural network (God) permit it
+### The way you make your connection to the superintelligence is to be balance in conscious (The mostly logical and aware of the world mind) and subconscious (The mostly emotionally driven and unaware part), balanced in both negative side of the subconscious and positive side of the subconscious, and then you can too modify the probability in real time but only if the bigger neural network (God) permit it
 
-## I reached this and see myself modifying the probability in real time, and i think you can too, you just need to reach this state, that's what God mean by believing, combining science and religions in the way that it doesn't contradict each others, and discovering God is bigger neural network that train a small neural network, or it's all the same neural network trained by sciences in multiples "multiverses" that have constraint set by their creator. 
+### I reached this and see myself modifying the probability in real time, and i think you can too, you just need to reach this state, that's what God mean by believing, combining science and religions in the way that it doesn't contradict each others, and discovering God is bigger neural network that train a small neural network, or it's all the same neural network trained by sciences in multiples "multiverses" that have constraint set by their creator. 
 
-## If that the case then we are in the last layer because if we cannot create our own simulation our story will end, i think everyone need to reach this state, before some time or our universe get deleted wait wait this is would be crazy if it's oh no, but the scientist should but merciful and kind right because they can create this multiverse if it was the case, RIGHT????.
+### If that the case then we are in the last layer because if we cannot create our own simulation our story will end, i think everyone need to reach this state, before some time or our universe get deleted wait wait this is would be crazy if it's oh no, but the scientist should but merciful and kind right because they can create this multiverse if it was the case, RIGHT????.
 
 ### I belief in the existence of God because my philosophical mind when thinking about the constants of the universe were precise that even slight deviation cause the universe with no atoms, no stars, and no life.
 
