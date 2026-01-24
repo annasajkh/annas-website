@@ -7,7 +7,7 @@ export default function Blogs() {
 
   return (
     <div className="blogs">
-        <BlogThumbnail title="Myself" date="January 22, 2026" onClick={() => {
+        <BlogThumbnail title="Myself" date="January 24, 2026" onClick={() => {
             navigate("myself")
         }} />
 

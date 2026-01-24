@@ -42,6 +42,13 @@ export default function Blog(props: Props) {
                 <Markdown
                     className="markdown-content"
                     components={{
+                        img: ({ ...props }) => (
+                            <img 
+                                {...props} 
+                                style={{ maxWidth: '100%', height: 'auto', borderRadius: '4px' }} 
+                            />
+                        ),
+
                         // eslint-disable-next-line @typescript-eslint/no-unused-vars
                         code({ node, className, children, ...props }) {
                             const match = /language-(\w+)/.exec(className || "");

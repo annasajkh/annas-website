@@ -9,9 +9,33 @@
 }
 
 
-img[alt=previously_of_how_i_think_the_universe_work] { width: 1000px; }
+img[alt="previously_of_how_i_think_the_universe_work"],
+img[alt="final_photo_of_how_i_think_and_experience_how_the_universe_look_like"] { 
+    width: 100%;
+    max-width: 1000px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
 
-img[alt=final_photo_of_how_i_think_and_experience_how_the_universe_look_like] { width: 1000px; }
+.markdown-content {
+    padding-left: 32px;
+    padding-right: 32px;
+    font-size: 16px;
+    font-family: Lato;
+    color: white;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
+@media (max-width: 816px) {
+    .markdown-content {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+}
 
 html,body, #root {
     height: 100%;
