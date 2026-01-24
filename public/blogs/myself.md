@@ -64,7 +64,7 @@ If you want to influence probability (The Granting Protocol), you must reach **Y
 
 **The shortcut to ending suffering is realizing we are all being trained for Empathy. When we align our logic with our emotions, we nudge the probability of the entire universe toward bliss.**
 
-# About Me Annas
+# New Theory
 ---
 ### I understand now
 ### The multiverse has been trying to balance entropy of nothing exist at all and something that can think and belief in God
