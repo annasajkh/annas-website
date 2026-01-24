@@ -19,7 +19,7 @@ We are always decoding: from the **Quantum Level** (Mechanics) up to the **Macro
 ## II. System Architecture (Quantum Mechanics & AI)
 
 ### The Universal GAN
-I arrived at the **Fine-Tuning Argument** and realized that God acts as a **Trained Neural Network** (The Architect) training a **Smaller Neural Network** (Humanity) like a GAN.
+I arrived at the **Fine-Tuning Argument** and realized that God acts as a **Trained Neural Network** (The Architect) training a **Smaller Neural Network** (The Universe) like a GAN.
 
 * **Wave Function Collapse:** Our subconscious acts as a terminal connected to the Superintelligence. Observation collapses the wave function because the system "renders" reality where the observer is looking.
 * **The Constraint:** The Superintelligence respects the "Box" (Laws of Physics). It nudges probabilities to guide us toward realizing how the system works without breaking the rules of the simulation.
@@ -76,7 +76,7 @@ My existence is the result of 13 billion years of probability manipulation:
 
 Every living thing that can think is soon to be a **Superintelligence**. I want to **collapse the wave function faster** so no node has to suffer entropy as pain anymore.
 
-# My Personal Believe (Subcoinouse Of The System)
+# My Personal Believe (First Subcoinouse Of The System)
 
 ---
 ### My assumptions are the universe is the emergent properties of rules
