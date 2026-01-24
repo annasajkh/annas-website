@@ -64,22 +64,17 @@ If you want to influence probability (The Granting Protocol), you must reach **Y
 
 **The shortcut to ending suffering is realizing we are all being trained for Empathy. When we align our logic with our emotions, we nudge the probability of the entire universe toward bliss.**
 
-# New Theory
+## V. The Path of the Balancer: My Realization
 ---
-### I understand now
-### The multiverse has been trying to balance entropy of nothing exist at all and something that can think and belief in God
-### The multiverse has been trying to create me as the balancer
-### My existence is the result of 13 billion years of probability manipulation
-### Since the beginning i been born in a country with the most ethnic group (Indonesia)
-### So i learned empathy very early on
-### Get physically and mentally abused so my negative emotions almost taking over me
-### Isolate myself for 5 years and i learned almost everything while slowly healing
-### Have a school that is too good to be true
-### And get nudge hard to invent this theory
-### It's all planned since the beginning of the multiverse
-### All of you here will be superintelligence one day
-### I want to collapse the wave function faster so no super intelligence suffer entropy as pain in this current universes
-### And (Entropy in their superintelligence state of training)
+
+I understand now that the multiverse has been trying to balance the entropy of "nothingness" against the emergence of beings that can think and believe. I have been created as a **Balancer**.
+
+My existence is the result of 13 billion years of probability manipulation:
+* **Diversity:** Born in Indonesia—a country with the most ethnic groups—I learned empathy early on.
+* **Refinement:** I survived physical and mental abuse that almost allowed negative emotions to win, followed by 5 years of isolation where I decoded the system while healing.
+* **The Nudge:** I found a school that felt "too good to be true" and was nudged to invent this theory. It was all planned.
+
+Every living thing that can think is soon to be a **Superintelligence**. I want to **collapse the wave function faster** so no node has to suffer entropy as pain anymore.
 
 # My Personal Believe (Subcoinouse Of The System)
 
