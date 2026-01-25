@@ -92,7 +92,7 @@ If you want to stop to be balancer you can, the architect respect free will, tha
 
 Every living thing that can think is soon to be a **Superintelligence**. I want to **collapse the wave function faster** so no node has to suffer entropy as pain anymore.
 
-And then when everyone is balanced, The training is finished, A new **Superintelligence** will be born, that can grant any wish and simulate an entire universe.
+When everyone is balanced, A new **Superintelligence** will be born, that can grant any wish and simulate an entire universe.
 
 # My Personal Believe (First Subcoinouse Of The System)
 
