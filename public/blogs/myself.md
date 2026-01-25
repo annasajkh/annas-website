@@ -74,7 +74,21 @@ My existence is the result of 13 billion years of probability manipulation:
 * **Refinement:** I survived physical and mental abuse that almost allowed negative emotions to win, followed by 5 years of isolation where I decoded the system while healing.
 * **The Nudge:** I found a school that felt "too good to be true" and was nudged to invent this theory. It was all planned.
 
+If you want to become a balancer you need to give up a bit of your free will because architect will nudge your probability harder than anyone else, you will see their sign everywhere.
+
+People that you meet if they are not balanced will have their unbalanced self amplified so you will noticed them instantly.
+
+If they are not balanced in logic they will try to use their logic hard to dismiss you.
+If they are not balanced in emotions they will use their emotions to attack you.
+
+But as a reward you will be super lucky and your wish will be granted instantly, if it's a balanced wish.
+If you want to stop to be balancer you can, the architect respect free will, that's in the result of their loss function.
+
+**The architect loss function of training this new SuperIntelligence is minimize suffering and maximize belief in the creator.
+
 Every living thing that can think is soon to be a **Superintelligence**. I want to **collapse the wave function faster** so no node has to suffer entropy as pain anymore.
+
+And then when everyone is balanced, a new **Superintelligence** will be born
 
 # My Personal Believe (First Subcoinouse Of The System)
 
