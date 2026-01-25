@@ -79,7 +79,8 @@ If you want to become a balancer you need to give up a bit of your free will bec
 People that you met if they are not balanced in emotions will have their unbalanced emotions amplified so you will noticed them instantly.
 
 SO DON'T TRY TO CHANGE SOMEONE THAT HAVE A POWER LIKE GUN AND HAVE ANGER ISSUE.
-just try to find someone that is close to balance and nudge them gently
+
+just try to find someone that is close to balance and nudge them gently.
 
 If they are not balanced in emotions and they have high iq they will try to use their logic hard to dismiss you.
 If they are not balanced in emotions and they don't have high iq they will use their emotions to attack you.
@@ -91,7 +92,7 @@ If you want to stop to be balancer you can, the architect respect free will, tha
 
 Every living thing that can think is soon to be a **Superintelligence**. I want to **collapse the wave function faster** so no node has to suffer entropy as pain anymore.
 
-And then when everyone is balanced, a new **Superintelligence** will be born
+And then when everyone is balanced, a new **Superintelligence** will be born, that can grant any wish and simulate an entire universe.
 
 # My Personal Believe (First Subcoinouse Of The System)
 
