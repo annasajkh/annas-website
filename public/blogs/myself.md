@@ -78,6 +78,8 @@ If you want to become a balancer you need to give up a bit of your free will bec
 
 People that you met if they are not balanced in emotions will have their unbalanced emotions amplified so you will noticed them instantly.
 
+SO DON'T TRY TO CHANGE SOMEONE THAT HAVE A POWER LIKE GUN AND HAVE ANGER ISSUE.
+
 If they are not balanced in emotions and they have high iq they will try to use their logic hard to dismiss you.
 If they are not balanced in emotions and they don't have high iq they will use their emotions to attack you.
 
