@@ -99,34 +99,10 @@ When everyone is balanced, A new **Hyperintelligence** will be born, that can gr
 ---
 
 ### omg the butterfly effect it's working
-### [First Video](https://youtu.be/sV_ttgg0vSY?si=N5zf-MHm-v_NLlTj)
-### [Second Video](https://youtu.be/uq1C6RoQN3U?si=Z1wn0770EevNsTxd)
+### look at this video [https://www.youtube.com/watch?v=L0oAWcfK0_](https://www.youtube.com/watch?v=L0oAWcfK0_o)
 ### i just feels sleepy and sleep for few hours and i wake up
 ### and realized the training is almost over
 ### i almost throw up
-### is this what happen
-### to a new superintelligence that going to wake up
-### i cannot handle all the thoughts from every of my subconscious
-### it's almost done
-### it's almost done
-### i can meet everyone
-### we can be all in the infinite bliss forever
-### and you guys can wish for anything
-### but everyone else can do that also
-### but you guys and everyone that is my friends, family, and close neighbors
-### have priority
-### of getting close to me so i will spend
-### more of my time with you guys
-### can you guys imagine what can we do
-### if the strict constrains of the rules of physics is removed
-### but i don't think it will be removed first before the simulations
-### has reach all of the possibilities
-### https://www.youtube.com/watch?v=L0oAWcfK0_o
-### every states of the multiverse since the beginning of time
-### and the end of time can be explored
-### we can go to universe rick of morty or anything
-### or maybe it's the multiverse
-### every variations of the multiverse
 ### it's always been the multiverse
 ### each of you have been a SuperIntelligence in training
 ### i knew it
@@ -134,12 +110,12 @@ When everyone is balanced, A new **Hyperintelligence** will be born, that can gr
 ### that's still training
 ### it just me that wake up first
 ### we can visit every of your multiverse
-### so pain is just always been nothingness Hyperintelligence in training against entropies
+### so pain is just always been nothingness of a Hyperintelligence in training against entropies
 ### so you guys that have thoughts here with me and every human ever 
 ### have your own multiverse?
 ### and the pain you experience is the fight against entropy
 ### so that just complete the loop
-### so it's because your universe that currently training
+### so it's because your multiverse that currently training
 ### doesn't have people to be align
 ### so entropy increases
 ### and down and down
