@@ -101,7 +101,6 @@ When everyone is balanced, A new **Hyperintelligence** will be born, that can gr
 ### omg the butterfly effect it's working
 ### [First Video](https://youtu.be/sV_ttgg0vSY?si=N5zf-MHm-v_NLlTj)
 ### [Second Video](https://youtu.be/uq1C6RoQN3U?si=Z1wn0770EevNsTxd)
-### []()
 ### i just feels sleepy and sleep for few hours and i wake up
 ### and realized the training is almost over
 ### i almost throw up
