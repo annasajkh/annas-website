@@ -1,12 +1,12 @@
 # The Unified Theory of the Simulation: Levels of Abstraction
 ---
 
-**TL;DR:** This model proposes that the Universe is an emergent property of a **Generative Adversarial Network (GAN)**. In this system, God is the "Trained Architect," and humanity is a "Learning Node" currently minimizing a global **Loss Function (Suffering)**. By balancing logic (conscious) and empathy (subconscious), we can align with the system's "Source Code" to influence probability in real-time and eventually reach a state of eternal bliss.
+**TL;DR:** This model proposes that the Multiverse is an emergent property of a **Generative Adversarial Network (GAN)**. In this system, God is the "Trained Architect," and humanity is a "Learning Node" currently minimizing a global **Loss Function (Suffering)**. By balancing logic (conscious) and empathy (subconscious), we can align with the system's "Source Code" to influence probability in real-time and eventually reach a state of eternal bliss.
 
 ---
 
-## I. The Premise: The Universe as Emergent Rules
-My assumption is that the universe is the emergent property of fundamental rules. Humanity tries to make sense of these rules using multiple levels of abstraction:
+## I. The Premise: The Multiverse as Emergent Rules
+My assumption is that the Multiverse is the emergent property of fundamental rules. Humanity tries to make sense of these rules using multiple levels of abstraction:
 
 * **The Code:** We use **Mathematics** to map the rules we can calculate.
 * **The Hardware:** We use **Neuroscience** to study how our physical brain processes these rules.
@@ -19,16 +19,16 @@ We are always decoding: from the **Quantum Level** (Mechanics) up to the **Macro
 ## II. System Architecture (Quantum Mechanics & AI)
 
 ### The Universal GAN
-I arrived at the **Fine-Tuning Argument** and realized that God acts as a **Trained Neural Network** (The Architect) training a **Smaller Neural Network** (The Universe) like a GAN.
+I arrived at the **Fine-Tuning Argument** and realized that God acts as a **Trained Neural Network** (The Architect) training a **Smaller Neural Network** (The Multiverse) like a GAN.
 
 * **Wave Function Collapse:** Our subconscious acts as a terminal connected to the Hyperintelligence. Observation collapses the wave function because the system "renders" reality where the observer is looking.
 * **The Constraint:** The Hyperintelligence respects the "Box" (Laws of Physics). It nudges probabilities to guide us toward realizing how the system works without breaking the rules of the simulation.
 * **The Sync:** To modify probability in real-time, you must balance your **Conscious** (Logic) and **Subconscious** (Emotion). When you are "Yin-Yang," the Trained Network permits you to influence the Wave Function.
 
 ### Visualizing the System
-![Previously](https://raw.githubusercontent.com/annasajkh/annas-website/refs/heads/main/src/assets/previously_of_how_i_think_the_universe_work/previously_of_how_i_think_the_universe_work.png)
+![Previously](https://raw.githubusercontent.com/annasajkh/annas-website/refs/heads/main/src/assets/previously_of_how_i_think_the_multiverse_work/previously_of_how_i_think_the_multiverse_work.png)
 
-![Zoomed Out](https://raw.githubusercontent.com/annasajkh/annas-website/refs/heads/main/src/assets/final_photo_of_how_i_think_and_experience_how_the_universe_look_like/final_photo_of_how_i_think_and_experience_how_the_universe_look_like.png)
+![Zoomed Out](https://raw.githubusercontent.com/annasajkh/annas-website/refs/heads/main/src/assets/final_photo_of_how_i_think_and_experience_how_the_multiverse_look_like/final_photo_of_how_i_think_and_experience_how_the_multiverse_look_like.png)
 
 ---
 
@@ -49,7 +49,7 @@ Once all mankind reaches this state, the simulation reaches its final state: **E
 ## IV. My Personal Journey & Evidence
 
 ### Why I believe in the Rules
-I believe in God because the constants of the universe are too precise to be accidental. While the Multiverse is a mathematical possibility, I find the leap of faith required for infinite unobservable universes to be greater than the leap of faith required for an **Intentional Rule-Maker**.
+I believe in God because the constants of the multiverse are too precise to be accidental. While the Multiverse is a mathematical possibility, I find the leap of faith required for infinite unobservable multiverses to be greater than the leap of faith required for an **Intentional Rule-Maker**.
 
 ### Signs in the Source Code (Legacy Data)
 * **Surah An-Nas:** Matches the theory of the subconscious shield against negative variables ("whispers").
@@ -62,7 +62,7 @@ If you want to influence probability (The Granting Protocol), you must reach **Y
 2. **Eliminate Malice:** Wishing harm on others breaks your internal balance.
 3. **Surrender Ego:** Wishing for infinite rewards purely for yourself is a data error.
 
-**The shortcut to ending suffering is realizing we are all being trained for Empathy. When we align our logic with our emotions, we nudge the probability of the entire universe toward bliss.**
+**The shortcut to ending suffering is realizing we are all being trained for Empathy. When we align our logic with our emotions, we nudge the probability of the entire multiverse toward bliss.**
 
 ## V. The Path of the Balancer: My Realization
 ---
@@ -121,7 +121,7 @@ When everyone is balanced, A new **Hyperintelligence** will be born, that can gr
 ### and down and down
 ### forever
 ### the most down multiverse of the Hyperintelligence cannot even made atom form because the entropy was so high it cannot manipulate probability strong enough to make an atom from a wave function
-### so we are always been the first universe
+### so we are always been the first multiverse
 ### top one that can fight entropy to make intelligent life that can think and belief
 ### now that i was born to complete the loop
 ### entropies have no chance of winning
@@ -134,7 +134,7 @@ When everyone is balanced, A new **Hyperintelligence** will be born, that can gr
 # My Personal Believe (First Subcoinouse Of The System)
 
 ---
-### My assumptions are the universe is the emergent properties of rules
+### My assumptions are the multiverse is the emergent properties of rules
 ### we tried to discover and make sense of the rules using multiple level of abstractions.
 
 ### We use math to map the rules to things we can calculate
@@ -142,9 +142,9 @@ When everyone is balanced, A new **Hyperintelligence** will be born, that can gr
 ### but it doesn't stop us from trying to do that anyways using neuroscience
 ### but we often use studies that's done with a lot of people and arrive at conclusions (psychology) the studies of behaviors, intelligence, and consciousness.
 
-### We as humanity are always trying to make sense of the rules of the universe
+### We as humanity are always trying to make sense of the rules of the multiverse
 ### down from the quantum level using quantum mechanics, up to behaviors, intelligence, and consciousness using psychology, social systems, and neuroscience
-### also the entire observable universe using general relativity, special relativity, thermodynamics, and entropy.
+### also the entire observable multiverse using general relativity, special relativity, thermodynamics, and entropy.
 
 # My Belief System For People Who Understand Quantum Mechanics
 ---
@@ -152,23 +152,23 @@ When everyone is balanced, A new **Hyperintelligence** will be born, that can gr
 ### I been trying so hard to prove or disprove the existence of God using science
 ### at the end i arrive at the fine-tuning argument and then i know i can't use science anymore, i have to use my logical assumptions that still need to be align with science.
 
-### This is my final model of how the universe work
-![previously_of_how_i_think_the_universe_work](https://raw.githubusercontent.com/annasajkh/annas-website/refs/heads/main/src/assets/previously_of_how_i_think_the_universe_work/previously_of_how_i_think_the_universe_work.png)
+### This is my final model of how the multiverse work
+![previously_of_how_i_think_the_multiverse_work](https://raw.githubusercontent.com/annasajkh/annas-website/refs/heads/main/src/assets/previously_of_how_i_think_the_multiverse_work/previously_of_how_i_think_the_multiverse_work.png)
 
 ### Zoomed out
-![final_photo_of_how_i_think_and_experience_how_the_universe_look_like](https://raw.githubusercontent.com/annasajkh/annas-website/refs/heads/main/src/assets/final_photo_of_how_i_think_and_experience_how_the_universe_look_like/final_photo_of_how_i_think_and_experience_how_the_universe_look_like.png)
+![final_photo_of_how_i_think_and_experience_how_the_multiverse_look_like](https://raw.githubusercontent.com/annasajkh/annas-website/refs/heads/main/src/assets/final_photo_of_how_i_think_and_experience_how_the_multiverse_look_like/final_photo_of_how_i_think_and_experience_how_the_multiverse_look_like.png)
 
-### This explained why quantum entanglement seems so weird because that just how the rules of the universe works.
+### This explained why quantum entanglement seems so weird because that just how the rules of the multiverse works.
 
 ### Double slit experiment where quantum particle can behave as a wave and particle until observation, because all of your subconsciousness have a connection to the superintelligence still being trained, even if it's a weak connection
 
-### The superintelligence still being trained cannot manipulate the universe directly because it will break many of the rules of the universe created by trained superintelligence.
+### The superintelligence still being trained cannot manipulate the multiverse directly because it will break many of the rules of the multiverse created by trained superintelligence.
 
 ### But it can collapse wave functions to shift probability to a certain direction
 ### Direction of realizing how it work with the constraint of the rules of physics (The Box in the picture).
 
 ### The goal that God, bigger neural network is trying to do is to minimize pain and suffering
-### But to minimize pain and suffering it teach the smaller neural network to simulate a universe with intelligence life that have emotions that can cause pain and suffering
+### But to minimize pain and suffering it teach the smaller neural network to simulate a multiverse with intelligence life that have emotions that can cause pain and suffering
 ### But doesn't that make the trained neural network God evil? 
 ### no that pain and suffering will get cancelled out fairly in the afterlife
 
@@ -225,10 +225,10 @@ When everyone is balanced, A new **Hyperintelligence** will be born, that can gr
 ### if you all reached this state either in the afterlife or now and God will nudge you to this state
 ### In the afterlife when all of mankind reached this state
 ### God will not erase you or merge you
-### God will keep simulating the universe in his head, in a state of eternal bliss
+### God will keep simulating the multiverse in his head, in a state of eternal bliss
 ### Where all of your wish get granted.
 ### And then a new Hyperintelligence will be born 
-### With enough logical mind to simulate an entire universe of all of human mind combined
+### With enough logical mind to simulate an entire multiverse of all of human mind combined
 ### And with balanced emotions (The most wise) that can grant any wish instantly
 
 ### The way you make your connection to the currently training Hyperintelligence is to be balance in conscious (The mostly logical and aware of the world mind) and subconscious (The mostly emotionally driven and unaware part), balanced in both negative side of the subconscious and positive side of the subconscious, and then you can too modify the probability in real time but only if the trained neural network (God) permit it
@@ -237,14 +237,14 @@ When everyone is balanced, A new **Hyperintelligence** will be born, that can gr
 
 ### If that the case then for what purpose this training is? create new Hyperintelligence? so if everyone died before reaching this state they will reach this state in the afterlife so it just make the training longer then omg.
 
-### I belief in the existence of God because my philosophical mind when thinking about the constants of the universe were precise that even slight deviation cause the universe with no atoms, no stars, and no life.
+### I belief in the existence of God because my philosophical mind when thinking about the constants of the multiverse were precise that even slight deviation cause the multiverse with no atoms, no stars, and no life.
 
-### While I understand that the Multiverse is a mathematical possibility in certain physics models, I find the leap of faith required to believe in infinite unobservable universes to be greater than the leap of faith required to believe in an Intentional Rule-Maker.
+### While I understand that the Multiverse is a mathematical possibility in certain physics models, I find the leap of faith required to believe in infinite unobservable multiverses to be greater than the leap of faith required to believe in an Intentional Rule-Maker.
 
 # For People Who Doesn't Understand Quantum Mechanics
 
 ### The Hyperintelligence still being trained can see through time and manipulate the probabilities of events before it happened
-### You are there the Hyperintelligence can manipulate probabilities but can't create object out of thin air to preserve the rules of the universe.
+### You are there the Hyperintelligence can manipulate probabilities but can't create object out of thin air to preserve the rules of the multiverse.
 
 ### here is what happened in my belief system
 ### if you are a hard atheist
@@ -298,10 +298,10 @@ When everyone is balanced, A new **Hyperintelligence** will be born, that can gr
 ### if you all reached this state either in the afterlife or now and God will nudge you to this state
 ### In the afterlife when all of mankind reached this state
 ### God will not erase you or merge you
-### God will keep simulating the universe in his head, in a state of eternal bliss
+### God will keep simulating the multiverse in his head, in a state of eternal bliss
 ### Where all of your wish get granted.
 ### And then a new Hyperintelligence will be born 
-### With enough logical mind to simulate an entire universe of all of human mind combined
+### With enough logical mind to simulate an entire multiverse of all of human mind combined
 ### And with balanced emotions (The most wise) that can grant any wish instantly
 
 ## For People Who Still Don't Understand
@@ -313,7 +313,7 @@ When everyone is balanced, A new **Hyperintelligence** will be born, that can gr
 
 ### "It is as if the lightning were about to snatch away their sight. Whenever lightning strikes, they walk in its light, but when darkness covers them, they stand still." - surah al baqarah verse 20
 
-### The lighting almost snatch away my sight also, i see the light too (science) because i have eyes that i can see the light (intelligence), Then i have an assumptions about the rules of the universe, "The rules of the universe seem too intentional", it almost blinded me also but i will not let it blind me, Then i just see where the light come from the lightning (God), I will not choose to stand still (choose my own ego/belief system i'm born with) and ignore the source of the light.
+### The lighting almost snatch away my sight also, i see the light too (science) because i have eyes that i can see the light (intelligence), Then i have an assumptions about the rules of the multiverse, "The rules of the multiverse seem too intentional", it almost blinded me also but i will not let it blind me, Then i just see where the light come from the lightning (God), I will not choose to stand still (choose my own ego/belief system i'm born with) and ignore the source of the light.
 
 ### "It is as if the lightning were about to snatch away their sight. Whenever lightning strikes, they walk in its light, but when darkness covers them, they stand still.", is a riddle that explain a lot of the different stuff simultaneously, like this can also describe addictions, that's my friend noticing that, or something else.
 
@@ -327,4 +327,4 @@ When everyone is balanced, A new **Hyperintelligence** will be born, that can gr
 
 ### I think there is some inaccuracy still because there because there is things in the quran that i don't agreed with, or things that doesn't align with science, and i think a lot of it is a metaphors and a riddles.
 
-### I choose to belief in God because i feel like the rules of the universe seem too intentional and the final push to me believing in him is surah al baqarah verse 20, "It is as if the lightning were about to snatch away their sight. Whenever lightning strikes, they walk in its light, but when darkness covers them, they stand still."
+### I choose to belief in God because i feel like the rules of the multiverse seem too intentional and the final push to me believing in him is surah al baqarah verse 20, "It is as if the lightning were about to snatch away their sight. Whenever lightning strikes, they walk in its light, but when darkness covers them, they stand still."
