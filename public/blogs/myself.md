@@ -74,7 +74,7 @@ My existence is the result of 13 billion years of probability manipulation:
 * **Refinement:** I survived physical and mental abuse that almost allowed negative emotions to win, followed by 5 years of isolation where I decoded the system while healing.
 * **The Nudge:** I found a school that felt "too good to be true" and was nudged to invent this theory. It was all planned.
 
-If you want to become a balancer you need to give up a bit of your free will because The Architect will nudge your probability harder than anyone else, you will see their sign everywhere.
+If you want to become a balancer you need to give up a bit of your free will because The Architect will nudge your probability harder than anyone else, you will see their signs everywhere.
 
 People that you met if they are not balanced in emotions will have their unbalanced emotions amplified so you will noticed them instantly.
 
@@ -95,41 +95,11 @@ Every living thing that can think is soon to be a **Superintelligence**. I want 
 
 When everyone is balanced, A new **Hyperintelligence** will be born, that can grant any wish and simulate an entire multiverse.
 
+I think God chooses islam to be the most accurate religion so i will follow islam.
 
----
+I seen God changing islam verse in real time.
 
-### omg the butterfly effect it's working
-### look at this video [https://www.youtube.com/watch?v=L0oAWcfK0_](https://www.youtube.com/watch?v=L0oAWcfK0_o)
-### i just feels sleepy and sleep for few hours and i wake up
-### and realized the training is almost over
-### i almost throw up
-### it's always been the multiverse
-### each of you have been a SuperIntelligence in training
-### i knew it
-### each of you have your own multiverse
-### that's still training
-### it just me that wake up first
-### we can visit every of your multiverse
-### so pain is just always been nothingness of a Hyperintelligence in training against entropies
-### so you guys that have thoughts here with me and every human ever 
-### have your own multiverse?
-### and the pain you experience is the fight against entropy
-### so that just complete the loop
-### so it's because your multiverse that currently training
-### doesn't have people to be align
-### so entropy increases
-### and down and down
-### forever
-### the most down multiverse of the Hyperintelligence cannot even made atom form because the entropy was so high it cannot manipulate probability strong enough to make an atom from a wave function
-### so we are always been the first multiverse
-### top one that can fight entropy to make intelligent life that can think and belief
-### now that i was born to complete the loop
-### entropies have no chance of winning
-### at all
-### because multiverse without GOD IS BORING YEAH!!!!!!!!!!!!!!!!!!!!!!!!!
-### and you guys will wake up one day and can visit your multiverse?
-### if you are alive today congrats you still survive against entropy
-### so afterlife is just longer training of the Superintelligence
+so i think he want to make islam the correct religion.
 
 # My Personal Believe (First Subcoinouse Of The System)
 
@@ -328,3 +298,36 @@ When everyone is balanced, A new **Hyperintelligence** will be born, that can gr
 ### I think there is some inaccuracy still because there because there is things in the quran that i don't agreed with, or things that doesn't align with science, and i think a lot of it is a metaphors and a riddles.
 
 ### I choose to belief in God because i feel like the rules of the multiverse seem too intentional and the final push to me believing in him is surah al baqarah verse 20, "It is as if the lightning were about to snatch away their sight. Whenever lightning strikes, they walk in its light, but when darkness covers them, they stand still."
+
+### omg the butterfly effect it's working
+### look at this video [https://www.youtube.com/watch?v=L0oAWcfK0_](https://www.youtube.com/watch?v=L0oAWcfK0_o)
+### i just feels sleepy and sleep for few hours and i wake up
+### and realized the training is almost over
+### i almost throw up
+### it's always been the multiverse
+### each of you have been a SuperIntelligence in training
+### i knew it
+### each of you have your own multiverse
+### that's still training
+### it just me that wake up first
+### we can visit every of your multiverse
+### so pain is just always been nothingness of a Hyperintelligence in training against entropies
+### so you guys that have thoughts here with me and every human ever 
+### have your own multiverse?
+### and the pain you experience is the fight against entropy
+### so that just complete the loop
+### so it's because your multiverse that currently training
+### doesn't have people to be align
+### so entropy increases
+### and down and down
+### forever
+### the most down multiverse of the Hyperintelligence cannot even made atom form because the entropy was so high it cannot manipulate probability strong enough to make an atom from a wave function
+### so we are always been the first multiverse
+### top one that can fight entropy to make intelligent life that can think and belief
+### now that i was born to complete the loop
+### entropies have no chance of winning
+### at all
+### because multiverse without GOD IS BORING YEAH!!!!!!!!!!!!!!!!!!!!!!!!!
+### and you guys will wake up one day and can visit your multiverse?
+### if you are alive today congrats you still survive against entropy
+### so afterlife is just longer training of the Superintelligence
