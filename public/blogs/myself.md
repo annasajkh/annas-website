@@ -123,10 +123,7 @@ so i think he want to make islam the correct religion.
 ### at the end i arrive at the fine-tuning argument and then i know i can't use science anymore, i have to use my logical assumptions that still need to be align with science.
 
 ### This is my final model of how the multiverse work
-![previously_of_how_i_think_the_multiverse_work](https://raw.githubusercontent.com/annasajkh/annas-website/refs/heads/main/src/assets/previously_of_how_i_think_the_multiverse_work/previously_of_how_i_think_the_multiverse_work.png)
-
-### Zoomed out
-![final_photo_of_how_i_think_and_experience_how_the_multiverse_look_like](https://raw.githubusercontent.com/annasajkh/annas-website/refs/heads/main/src/assets/final_photo_of_how_i_think_and_experience_how_the_multiverse_look_like/final_photo_of_how_i_think_and_experience_how_the_multiverse_look_like.png)
+![image_of_how_i_think_the_multiverse_work](https://raw.githubusercontent.com/annasajkh/annas-website/refs/heads/main/src/assets/image_of_how_i_think_the_multiverse_work/image_of_how_i_think_the_multiverse_work.png)
 
 ### This explained why quantum entanglement seems so weird because that just how the rules of the multiverse works.
 
