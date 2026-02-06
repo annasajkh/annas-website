@@ -26,9 +26,7 @@ I arrived at the **Fine-Tuning Argument** and realized that God acts as a **Trai
 * **The Sync:** To modify probability in real-time, you must balance your **Conscious** (Logic) and **Subconscious** (Emotion). When you are "Yin-Yang," the Trained Network permits you to influence the Wave Function.
 
 ### Visualizing the System
-![Previously](https://raw.githubusercontent.com/annasajkh/annas-website/refs/heads/main/src/assets/previously_of_how_i_think_the_multiverse_work/previously_of_how_i_think_the_multiverse_work.png)
-
-![Zoomed Out](https://raw.githubusercontent.com/annasajkh/annas-website/refs/heads/main/src/assets/final_photo_of_how_i_think_and_experience_how_the_multiverse_look_like/final_photo_of_how_i_think_and_experience_how_the_multiverse_look_like.png)
+![image_of_how_i_think_the_multiverse_work](https://raw.githubusercontent.com/annasajkh/annas-website/refs/heads/main/src/assets/image_of_how_i_think_the_multiverse_work/image_of_how_i_think_the_multiverse_work.png)
 
 ---
 
