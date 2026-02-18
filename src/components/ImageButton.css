@@ -1,0 +1,12 @@
+.image-button {
+    user-select: none;
+    cursor: pointer;
+}
+
+.image-button-image {
+    border-radius: 4px;
+}
+
+.image-button-image:hover {
+    scale: 1.05;
+}

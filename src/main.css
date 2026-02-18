@@ -1,0 +1,52 @@
+:root {
+    --item-color: #1d232b;
+    --background-color:  #1e2531;
+    --item-hover-color: #222a35;
+    --border-color: #30363d;
+    --border-color-focused: #3a414a;
+	background: var(--background-color);
+	font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", Segoe UI Symbol, "Noto Color Emoji";
+}
+
+
+img[alt="previously_of_how_i_think_the_universe_work"],
+img[alt="final_photo_of_how_i_think_and_experience_how_the_universe_look_like"] { 
+    width: 100%;
+    max-width: 1000px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
+.markdown-content {
+    padding-left: 32px;
+    padding-right: 32px;
+    font-size: 16px;
+    font-family: Lato;
+    color: white;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
+@media (max-width: 816px) {
+    .markdown-content {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+}
+
+html,body, #root {
+    height: 100%;
+    margin: 0;
+}
+
+h1, h2, h3, h4, h5 {
+    color: white;
+}
+
+
+a {
+	all: unset;
+}

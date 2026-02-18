@@ -1,0 +1,17 @@
+.blogs {
+    display: flex;
+    flex-direction: column;
+    margin-right: 25%;
+    margin-left: 25%;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    gap: 16px;
+}
+
+
+@media (max-width: 816px) {
+    .blogs {
+        margin-right: 5%;
+        margin-left: 5%;
+    }
+}

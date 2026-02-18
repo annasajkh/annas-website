@@ -1,0 +1,39 @@
+.skill {
+    margin: 8px;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--item-color);
+    border: 1px solid var(--border-color);
+    box-shadow: 0 0 10px var(--border-color);
+    width: 128px;
+    height: 176px;
+    border-radius: 4px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    user-select: none;
+    cursor: pointer;
+}
+
+.skill:hover {
+    cursor: pointer;
+    scale: 1.05;
+    border: 1px solid var(--border-color-focused);
+    box-shadow: 0 0 10px var(--border-color-focused);
+}
+
+.skill-img {
+    width: 128px;
+    height: 128px;
+    border-radius: 4px;
+}
+
+.skill-text {
+    display: flex;
+    flex-grow: 1;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
