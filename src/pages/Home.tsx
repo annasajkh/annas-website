@@ -7,7 +7,6 @@ import Skill from "../components/Skill";
 
 import twitterXImgPath from "../assets/social_media/twitter_x.jpg";
 import youtubeImgPath from "../assets/social_media/youtube.png";
-import discordImgPath from "../assets/social_media/discord.jpg";
 import linktreeImgPath from "../assets/social_media/linktree.png";
 
 import csharpImgPath from "../assets/skills/csharp.png"
