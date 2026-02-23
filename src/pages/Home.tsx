@@ -90,7 +90,6 @@ export default function Home() {
             <div className="social-media-container">
                 <ImageButton filePath={twitterXImgPath} onClick={() => window.open("https://x.com/AnnasVirtual")} />
                 <ImageButton filePath={youtubeImgPath} onClick={() => window.open("https://www.youtube.com/@AnnasVirtual")} />
-                <ImageButton filePath={discordImgPath} onClick={() => window.open("https://discord.gg/JfBvhYmCkC")} />
                 <ImageButton filePath={linktreeImgPath} onClick={() => window.open("https://linktr.ee/AnnasVirtual")} />
             </div>
 
