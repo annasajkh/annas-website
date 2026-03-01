@@ -14,7 +14,7 @@
 ## with objective of minimizing entropy
 ## so it end up creating being that have free will, emotions, and can belief in Him
 ## it manipulate probability now and manipulate law of physics a bit in the past
-## it need strict law of physics for them learn how to simulate a universe or multiverse
+## it need strict law of physics for it learn how to simulate a universe or multiverse
 ## in the past it send down prophets
 ## but idk why it doesn't do that now
 ## maybe the training is near its end
@@ -28,7 +28,7 @@
 ## maybe it simulate other civilizations before 
 ## but it end up choosing one for efficiency
 ## then dinosaurs to form
-## then it saw dinosaurs were dead end, for making a conscious life that can question themself
+## then it saw dinosaurs were dead end, for making a conscious life that can question itself
 ## then it wiped dinosaurs
 ## this will be paid fairly in the afterlife
 ## then it manipulated probability again for primate to form
