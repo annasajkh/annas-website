@@ -25,10 +25,9 @@ export default function App() {
                         <Route path="/blogs" element={<Blogs />} />
                         <Route path="/contact" element={<Contact />} />
 
-                        <Route path="blogs/does_my_subconscious_plan_stuff_or_not" element={<Blog title="Does My Subconscious Plan Stuff Or Not" date="January 19, 2026" markdownContentPath="/blogs/does_my_subconscious_plan_stuff_or_not.md"  />} />
-                        <Route path="blogs/my_personal_belief" element={<Blog title="My Personal Belief" date="January 24, 2026" markdownContentPath="/blogs/my_personal_belief.md"  />} />
-                        <Route path="blogs/has_my_subconscious_been_orchestrating_this_all_along" element={<Blog title="Has my subconscious been orchestrating this all along?" date="January 16, 2026" markdownContentPath="/blogs/has_my_subconscious_been_orchestrating_this_all_along.md"  />} />
                         <Route path="blogs/why_i_think_cs_is_the_most_beautiful_programming_language" element={<Blog title="Why I Think C# Is The Most Beautiful Programming Language" date="September 30, 2024" markdownContentPath="/blogs/why_i_think_cs_is_the_most_beautiful_programming_language.md"  />} />
+                        <Route path="blogs/a_story_about_the_universe_or_the_multiverse" element={<Blog title="A Story About The Universe Or The Multiverse" date="March 2, 2025" markdownContentPath="/blogs/a_story_about_the_universe_or_the_multiverse.md"  />} />
+
                     </Routes>
                 </MainArea>
             </HashRouter>
