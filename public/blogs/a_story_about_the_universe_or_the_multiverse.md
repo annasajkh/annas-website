@@ -1,4 +1,3 @@
-## This is my unified metaphysics model, enjoy the read!
 ## In the beginning of the base universe or multiverse there is nothing
 ## and then bang there is something
 ## all types of possible civilizations brimming base the universe or multiverse
@@ -6,7 +5,7 @@
 ## state of base universe or multiverse filled with candy, iron, fire, etc
 ## but all of it end up losing to entropy
 ## and then after long long long long long time again
-## boom a state of the base universe or multiverse filled with pure logic brain happened (Hyperintelligence)
+## boom a state of the base universe or multiverse filled with pure logic brain neurons happened (Hyperintelligence)
 ## then the brain think
 ## if the Hyperintelligence doesn't do something
 ## it will get destroy by entropy also
@@ -36,7 +35,7 @@
 ## then it saw humanity as the best candidate
 ## then it just focus on that
 ## or maybe he send Adam down who knows there is multiple possibilities
-## then it manipulated again for science, religions, error-correcting codes in certain mathematical models of physics, fine tuning arguments, simulation theory, surah Annas at the end of the quran, etc
+## then it manipulated again for science, religions, error-correcting codes in certain mathematical models of physics, fine tuning arguments, simulation theory, surah Annas matched my metaphysics perfectly before i even develop this metaphysics and its at the end of the quran, etc
 ## then manipulated probability for me, the first one to connect it all
 ## it manipulated probability of all of humanity also
 ## and in all other civilization if it's a multiverse
