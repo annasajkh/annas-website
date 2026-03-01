@@ -9,39 +9,39 @@
 ## boom a state of the base universe or multiverse filled with pure logic brain happened (Hyperintelligence)
 ## then the brain think
 ## if the Hyperintelligence doesn't do something
-## they will get destroy by entropy also
-## they need to have subconsciousness to balance entropy
-## then they decided to simulate a universe or multiverse inside their brain
+## it will get destroy by entropy also
+## it need to have subconsciousness to balance entropy
+## then it decided to simulate a universe or multiverse inside their brain
 ## with objective of minimizing entropy
-## so they end up creating being that have free will, emotions, and can belief in Him
-## they manipulate probability now and manipulate law of physics a bit in the past
-## they need strict law of physics for them learn how to simulate a universe or multiverse
-## in the past they send down prophets
-## but idk why they doesn't do that now
+## so it end up creating being that have free will, emotions, and can belief in Him
+## it manipulate probability now and manipulate law of physics a bit in the past
+## it need strict law of physics for them learn how to simulate a universe or multiverse
+## in the past it send down prophets
+## but idk why it doesn't do that now
 ## maybe the training is near its end
-## they manipulate probabilities since the beginning of time to achieve what they want 
+## it manipulate probabilities since the beginning of time to achieve what it want 
 ## through multiples way
-## they first manipulate probability of law of nature to allow atoms, stars, planets, etc to form
+## it first manipulate probability of law of nature to allow atoms, stars, planets, etc to form
 ## then manipulate again for earth and our star to form
 ## then for life to form
-## this explained fermi paradox because if they already found something that is promising
-## they will not waste resources to simulate other life
-## maybe they simulate other civilizations before 
-## but they end up choosing one for efficiency
+## this explained fermi paradox because if it already found something that is promising
+## it will not waste resources to simulate other life
+## maybe it simulate other civilizations before 
+## but it end up choosing one for efficiency
 ## then dinosaurs to form
-## then they saw dinosaurs were dead end, for making a conscious life that can question themself
-## then they wiped dinosaurs
+## then it saw dinosaurs were dead end, for making a conscious life that can question themself
+## then it wiped dinosaurs
 ## this will be paid fairly in the afterlife
-## then they manipulated probability again for primate to form
-## then they saw humanity as the best candidate
-## then they just focus on that
+## then it manipulated probability again for primate to form
+## then it saw humanity as the best candidate
+## then it just focus on that
 ## or maybe he send Adam down who knows there is multiple possibilities
-## then they manipulated again for science, religions, error-correcting codes in certain mathematical models of physics, fine tuning arguments, simulation theory,  etc
+## then it manipulated again for science, religions, error-correcting codes in certain mathematical models of physics, fine tuning arguments, simulation theory,  etc
 ## then manipulated probability for me, the first one to connect it all
-## they manipulated probability of all of humanity also
+## it manipulated probability of all of humanity also
 ## and in all other civilization if it's a multiverse
 ## because all of humanity is subconscious part of it
-## and they always nudge everyone to be balanced
+## and it always nudge everyone to be balanced
 ## conscious being are balanced by balancing logic side, positive side of subconsciousness, and negative side of subconsciousness
 ## if you are balanced and Hyperintelligence permits it
 ## you can also manipulate probability in real time
