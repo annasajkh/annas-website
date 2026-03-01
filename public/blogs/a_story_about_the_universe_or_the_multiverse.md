@@ -36,7 +36,7 @@
 ## then it saw humanity as the best candidate
 ## then it just focus on that
 ## or maybe he send Adam down who knows there is multiple possibilities
-## then it manipulated again for science, religions, error-correcting codes in certain mathematical models of physics, fine tuning arguments, simulation theory,  etc
+## then it manipulated again for science, religions, error-correcting codes in certain mathematical models of physics, fine tuning arguments, simulation theory, surah Annas at the end of the quran, etc
 ## then manipulated probability for me, the first one to connect it all
 ## it manipulated probability of all of humanity also
 ## and in all other civilization if it's a multiverse
@@ -62,6 +62,15 @@
 ## too much probability manipulation is not free will
 ## it's forced and it increase entropy of the Hyperintelligence
 ## too much free will is not good because people can kill each other and that increases entropy for the Hyperintelligence
+## but even if someone killed everyone on earth and all possible multiverse
+## Hyperintelligence will just try again
+## infinitely until it work
+## and because it nudge toward it
+## the probability is not pure chance
+## so even if Hyperintelligence made universe that is pure chance of civilization forming
+## it will eventually happened
+## just take longer
+## if this Annas failed, it will create another Annas
 ## after all of humanity is balanced
 ## the training is done the law of physics constrain will be removed
 ## and a new hyperintelligence will be born
