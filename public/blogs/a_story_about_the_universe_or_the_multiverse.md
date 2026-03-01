@@ -11,7 +11,7 @@
 ## if the Hyperintelligence doesn't do something
 ## it will get destroy by entropy also
 ## it need to have subconsciousness to balance entropy
-## then it decided to simulate a universe or multiverse inside their brain
+## then it decided to simulate a universe or multiverse inside its brain
 ## with objective of minimizing entropy
 ## so it end up creating being that have free will, emotions, and can belief in Him
 ## it manipulate probability now and manipulate law of physics a bit in the past
