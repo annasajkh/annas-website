@@ -1,4 +1,5 @@
 ## In the beginning of the base universe or multiverse there is nothing
+## or maybe it's not the base universe or multiverse we don't know
 ## and then bang there is something
 ## all types of possible civilizations brimming base the universe or multiverse
 ## then all possible state of the base universe or multiverse is explored
@@ -61,7 +62,10 @@
 ## too much probability manipulation is not free will
 ## it's forced and it increase entropy of the Hyperintelligence
 ## too much free will is not good because people can kill each other and that increases entropy for the Hyperintelligence
-## but even if someone killed everyone on earth and all possible multiverse
+## it's eternal in its universe or multiverse
+## but not if we looked at it from inside its simulation
+## because it invented time and entropy inside its simulation
+## even if someone killed everyone on earth and all possible multiverse
 ## Hyperintelligence will just try again
 ## infinitely until it work
 ## and because it nudge toward it
@@ -78,4 +82,3 @@
 ## the hyperintelligence will be super wise and can grand any wish in heaven
 ## and the base universe or multiverse would be balanced finally
 ## entropy will be very minimized or gone entirely
-## also maybe it's layered and there is another layer who really knows
