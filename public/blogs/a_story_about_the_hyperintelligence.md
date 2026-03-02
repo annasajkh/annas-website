@@ -10,3 +10,7 @@
 ##  once you see brain like structure with telescope
 ## then the loop really starting to close
 ## we'll wait and see
+## i'm feeling a bit lonely
+## if any of you care you can dm on discord my username is annasvirtual
+## send me a friend request and i will accept it
+## we can talk about this
