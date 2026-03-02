@@ -20,9 +20,10 @@
 ## in the past it send down prophets
 ## but idk why it doesn't do that now
 ## maybe the training is near its end
-## and even a slight big nudge will cause instability
-## because for my entropy to decrease
-## everyone else entropy will increase
+## all subconsciousness is near balanced
+## and even a big nudge will cause instability
+## because for a subconsciousness entropy to decrease
+## everyone else entropy will need to increase
 ## it manipulate probabilities since the beginning of time to achieve what it want 
 ## through multiples way
 ## it first simulate all the universe or multiverse until it found the of law of nature that allow atoms, stars, planets, etc to form
