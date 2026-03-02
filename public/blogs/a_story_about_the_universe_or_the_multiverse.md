@@ -12,10 +12,10 @@
 ## with objective of minimizing entropy
 ## so it end up creating being that have free will, emotions, and can belief in Him
 ## it manipulate probability now and manipulate law of physics a bit in the past
-## it need strict law of physics for it learn how to simulate a universe or multiverse
 ## maybe the past it send down prophets
 ## but idk why it doesn't do that now
 ## maybe the training is near its end
+## it need strict law of physics for it learn how to simulate a universe or multiverse
 ## because all subconsciousness is near balanced
 ## and a big nudge will cause entropy
 ## because for a subconsciousness entropy to decrease
