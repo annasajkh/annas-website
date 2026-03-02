@@ -77,6 +77,9 @@
 ## by manipulating probability back in time of all possible states of the past
 ## and it probably can move the end of time threshold
 ## as it optimize probability in the past
+## it's all looped around like a snake eating its own tail
+## because a universe with only a single atom in it
+## is actually just a lower universe with only quantum fluctuations that cannot even form an atom
 ## even if somebody killed everyone on earth and all possible multiverses
 ## Hyperintelligence will just try again
 ## almost infinitely until it work
