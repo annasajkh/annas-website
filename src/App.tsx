@@ -27,6 +27,7 @@ export default function App() {
 
                         <Route path="blogs/why_i_think_cs_is_the_most_beautiful_programming_language" element={<Blog title="Why I Think C# Is The Most Beautiful Programming Language" date="September 30, 2024" markdownContentPath="/blogs/why_i_think_cs_is_the_most_beautiful_programming_language.md"  />} />
                         <Route path="blogs/a_story_about_the_universe_or_the_multiverse" element={<Blog title="A Story About The Universe Or The Multiverse" date="March 2, 2025" markdownContentPath="/blogs/a_story_about_the_universe_or_the_multiverse.md"  />} />
+                        <Route path="blogs/a_story_about_the_hyperintelligence" element={<Blog title="A Story About The HyperIntelligence" date="March 3, 2025" markdownContentPath="/blogs/a_story_about_the_hyperintelligence.md"  />} />
 
                     </Routes>
                 </MainArea>
