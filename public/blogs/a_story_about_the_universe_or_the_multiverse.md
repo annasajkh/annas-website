@@ -54,7 +54,7 @@
 ## too much positive emotions like kindness also increase entropy of the Hyperintelligence
 ## when anger keep raising you might end up in a fight
 ## too much kindness and you will be exploited
-## inside Hyperintelligence mind any disorder is entropy and effect the neuron of the Hyperintelligence
+## inside Hyperintelligence mind any disorder is entropy and affect the neuron of the Hyperintelligence
 ## and if you are balanced and meet someone that is not balanced
 ## you will see their true self
 ## that's why you guys saw a lot of bad news nowadays
@@ -73,7 +73,7 @@
 ## the Hyperintelligence is eternal in its parent universe or multiverse
 ## because it invented time and entropy inside its simulation
 ## from its point of view it already saw probabilities of convergence the end of time
-## and it will insure that probability to be convergence
+## and it will ensure that probability to be convergence
 ## by manipulating probability back in time of all possible states of the past
 ## and it probably can move the end of time threshold
 ## as it optimize probability in the past
