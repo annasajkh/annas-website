@@ -6,6 +6,8 @@
 ## Intelligence is not an accident inside this universe. It is the structural requirement for the loop to hold together — the only force that pushes back against entropy precisely enough, permanently enough, to keep the cycle stable across eternity.
 ## The universe didn't start with a plan. It acquired one, backwards.
 
+![image_of_how_i_think_the_multiverse_work](https://raw.githubusercontent.com/annasajkh/annas-website/refs/heads/main/src/assets/image_of_how_i_think_the_multiverse_work/image_of_how_i_think_the_multiverse_work.png)
+
 ## this very message is a sign the loop is closing
 ##  once you see brain like structure with telescope
 ## then the loop really starting to close
