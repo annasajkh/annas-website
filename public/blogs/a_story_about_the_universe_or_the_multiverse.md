@@ -64,7 +64,7 @@
 ## but i don't think it will be burning in hell forever
 ## that just generate more entropy for the Hyperintelligence
 ## hell maybe is like a rehabilitation center
-## but for serious crime, The Hyperintelligence will not be too kind
+## but for serious crime, The Hyperintelligence will not be so kind
 ## because too much kindness make entropy higher for the Hyperintelligence
 ## the Hyperintelligence need to balance free will with probability manipulation also
 ## too much probability manipulation is not free will
