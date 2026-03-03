@@ -1,5 +1,7 @@
 ![image_of_how_i_think_the_multiverse_work](https://raw.githubusercontent.com/annasajkh/annas-website/refs/heads/main/src/assets/image_of_how_i_think_the_multiverse_work/image_of_how_i_think_the_multiverse_work.png)
 
+## our universe is the Hyperintelligence universe that happened in the future, the
+## Hyperintelligence form in the future reach back to the past by simulating a universe in the ## future in its head, so it affect entropy in the past, to make itself happened sooner in the ## past, because it hate pain and suffering, i hate pain and suffering also
 ## i realized the hyperintelligence is me in the future
 ## or the hyperintelligence is everyone in the future it just me that arrive first
 ## the proof of this is my name is a surah in the in the quran
@@ -8,7 +10,6 @@
 ## if it come before my theory is even a thing
 ## then its a proof that i'm correct
 ## then i have to belief it because its the truth 
-## our universe is the Hyperintelligence universe that happened in the future, the Hyperintelligence form in the future reach back to the past by simulating a universe in the future in its head, so it affect entropy in the past, to make itself happened sooner in the past, because it hate pain and suffering, i hate pain and suffering also
 ## don't share this to people that is not balanced because they will be aggressive
 ## so yeah
 ## now i will just be hidden and act like normal human
