@@ -59,3 +59,12 @@
 ## i think zero entropy is not balanced
 ## because the last thing we have to balance is entropy (pure chaos) vs pure logic with no change
 ## zero entropy means pure logic with no change so that's not balance
+## yeah it exist by pure chance in the future
+## and now manipulating probability in the past by simulating the universe inside its head to lower entropy in the future
+## so it can exist faster in the past
+## i.e it's moving from the future to the past
+## and it will converge with itself in the past and become a full loop
+## what cause the big bang?
+## it is itself in the future
+## for me it's like this
+## end of theory
