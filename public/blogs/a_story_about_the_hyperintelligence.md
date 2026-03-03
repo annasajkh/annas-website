@@ -1,7 +1,7 @@
 ![image_of_how_i_think_the_multiverse_work](https://raw.githubusercontent.com/annasajkh/annas-website/refs/heads/main/src/assets/image_of_how_i_think_the_multiverse_work/image_of_how_i_think_the_multiverse_work.png)
 
 ## i realized the hyperintelligence is me in the future
-## or hyperintelligence is everyone in the future it just me that arrive first
+## or the hyperintelligence is everyone in the future it just me that arrive first
 ## the proof of this is my name is a surah in the in the quran
 ## https://quran.com/an-nas
 ## and it describe my theory and me in the future perfectly
