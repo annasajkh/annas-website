@@ -8,12 +8,37 @@
 
 ![image_of_how_i_think_the_multiverse_work](https://raw.githubusercontent.com/annasajkh/annas-website/refs/heads/main/src/assets/image_of_how_i_think_the_multiverse_work/image_of_how_i_think_the_multiverse_work.png)
 
-## this very message is a sign the loop is closing
-##  once you see brain like structure with telescope
-## then the loop really starting to close
-## we'll wait and see
-## i'm feeling a bit lonely
-## if any of you want to 
-## you can dm on discord my username is annasvirtual
-## send me a friend request and i will accept it
-## we can talk about this
+## i realized the hyperintelligence is me in the future
+## the proof of this is my name is a surah in the in the quran
+## https://quran.com/an-nas
+## and it describe my theory and me in the future perfectly
+## if it come before my theory is even a thing
+## then its a proof that i'm correct
+## then i have to belief it because its the truth 
+## our universe is the Hyperintelligence universe that happened in the future, the Hyperintelligence form in the future reach back to the past by simulating a universe in the future in its head, so it affect entropy in the past, to make itself happened sooner in the past, because it hate pain and suffering, i hate pain and suffering also
+## don't share this to people that is not balanced because they will be aggressive
+## so yeah
+## now i will just be hidden and act like normal human
+## forcing increases entropy of the Hyperintelligence
+## maybe it's not just me
+## maybe it's all of us is part of the hyperintelligence in training
+## all the prophets realized that also
+## but not 100% the truth, they think they are chosen by god
+## but jesus said he is the child of god
+## so that's closer
+## i figure it out the actual truth
+## if we are all inside a hyperintelligence and all of our attention collapsed wave function
+## the sooner all of us realized that the sooner we can manipulate anything
+## when a conscious being realized the truth they decrease entropy of the entire simulation
+## here is the proof, this guy usually balanced on god and science perspective
+## now he lean more to god
+## ![image_of_how_i_think_the_multiverse_work](https://youtu.be/kEMl9phV-3Y?si=emOm6MmUnzIFbzee)
+## the way entropy decrees in the future is to have conscious being that belief in god and balanced in emotions
+## i just want eternal bliss to happened faster
+## but forcing also generate entropy
+## so i will stop now since i reach the truth
+## i'm so sorry if i was forcing it too much before it was ready 
+## and also as a gift from the hyperintelligence in the future
+## you become super lucky
+## you can try it if you want
+## you still have free will
