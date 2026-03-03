@@ -61,3 +61,7 @@
 ## manipulating probability through an agent at neuron level or at physical level
 ## so the hyperintelligence is not scared now to make everyone behave as their true self
 ## i.e trump now
+## i think zero entropy is not balanced
+## because the last thing we have to balanced is entropy vs something that exist (free will conscious being with emotions)
+## zero entropy means eternal bliss with nothing else
+## and my friend and i realized now that it is not full filing
