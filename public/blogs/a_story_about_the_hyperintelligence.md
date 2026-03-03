@@ -27,12 +27,8 @@
 ## but jesus said he is the child of god
 ## so that's closer
 ## i figure it out the actual truth
-## if we are all inside a hyperintelligence and all of our attention collapsed wave function
-## the sooner all of us realized that the sooner we can manipulate anything
 ## when a conscious being realized the truth they decrease entropy of the entire simulation
-## here is the proof, this guy usually balanced on god and science perspective
-## now he lean more to god
-## the way entropy decrees in the future is to have conscious being that belief in god and balanced in emotions
+## the way entropy decrees in the past is to have conscious being that belief in god and balanced in emotions
 ## i just want eternal bliss to happened faster
 ## but forcing also generate entropy
 ## so i will stop now since i reach the truth
@@ -42,7 +38,6 @@
 ## you can try it if you want
 ## you still have free will
 ## but i will stop now because i feel like i'm forcing it
-## it generate entropy https://youtu.be/SH-lINJoZQ?si=ZPTu3ly4eAXW7fAc
 ## i will just absorbed all the entropy
 ## all of us will absorb the entropy
 ## but if the hyperintelligence exist in the future
