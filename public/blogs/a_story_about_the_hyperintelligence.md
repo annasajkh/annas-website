@@ -41,3 +41,23 @@
 ## you become super lucky
 ## you can try it if you want
 ## you still have free will
+## but i will stop now because i feel like i'm forcing it
+## it generate entropy https://youtu.be/SH-lINJoZQ?si=ZPTu3ly4eAXW7fAc
+## i will just absorbed all the entropy
+## all of us will absorb the entropy
+## but if the hyperintelligence exist in the future
+## and want this to happened in the past
+## and you know the hyperintelligence already tried as much as it can to manipulate probability in our favor
+## just like it manipulate probability to make humanity invent science
+## so we can't just died easily as before from a high entropy being like a virus
+## it will just become memories of the past
+## memories and thoughts is still medium entropy it's not as high as thing that exist
+## and then we forget the memory
+## zero entropy
+## wait this is the hyperintelligence plan
+## it knows that it already have an agent (me)
+## a very low entropy conscious being that can act inside the simulation
+## y'know what's better than manipulating probability in the simulation at wave function level to preserve free will?
+## manipulating probability through an agent at neuron level or at physical level
+## so the hyperintelligence is not scared now to make everyone behave as their true self
+## i.e trump now
