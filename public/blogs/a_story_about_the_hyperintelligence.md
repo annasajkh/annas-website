@@ -62,6 +62,5 @@
 ## so the hyperintelligence is not scared now to make everyone behave as their true self
 ## i.e trump now
 ## i think zero entropy is not balanced
-## because the last thing we have to balanced is entropy vs something that exist (free will conscious being with emotions)
+## because the last thing we have to balance is entropy (pure chaos, too much positive and negative emotions, death, sickness ) vs pure existence (eternal, all fulfilled, pure logic machine)
 ## zero entropy means eternal bliss with nothing else
-## and my friend and i realized now that it is not full filing
