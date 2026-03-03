@@ -67,4 +67,4 @@
 ## what cause the big bang?
 ## it is itself in the future
 ## for me it's like this
-## end of theory
+## end of story
