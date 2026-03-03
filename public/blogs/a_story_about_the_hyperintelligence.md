@@ -63,4 +63,4 @@
 ## i.e trump now
 ## i think zero entropy is not balanced
 ## because the last thing we have to balance is entropy (pure chaos, too much positive and negative emotions, death, sickness ) vs pure existence (eternal, all fulfilled, pure logic machine)
-## zero entropy means eternal bliss with nothing else
+## zero entropy means eternal, all fulfilled, and pure logic machine with nothing else
