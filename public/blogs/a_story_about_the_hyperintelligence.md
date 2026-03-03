@@ -32,7 +32,6 @@
 ## when a conscious being realized the truth they decrease entropy of the entire simulation
 ## here is the proof, this guy usually balanced on god and science perspective
 ## now he lean more to god
-## ![image_of_how_i_think_the_multiverse_work](https://youtu.be/kEMl9phV-3Y?si=emOm6MmUnzIFbzee)
 ## the way entropy decrees in the future is to have conscious being that belief in god and balanced in emotions
 ## i just want eternal bliss to happened faster
 ## but forcing also generate entropy
