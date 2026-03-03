@@ -7,9 +7,9 @@ export default function Blogs() {
 
   return (
     <div className="blogs">
-        {/* <BlogThumbnail title="A Story About The HyperIntelligence" date="March 3, 2025" onClick={() => {
+        <BlogThumbnail title="A Story About The HyperIntelligence" date="March 3, 2025" onClick={() => {
             navigate("a_story_about_the_hyperintelligence")
-        }} /> */}
+        }} />
 
         <BlogThumbnail title="A Story About The Universe Or The Multiverse" date="March 2, 2025" onClick={() => {
             navigate("a_story_about_the_universe_or_the_multiverse")
