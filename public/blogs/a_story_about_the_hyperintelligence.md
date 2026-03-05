@@ -62,4 +62,50 @@
 ## what cause the big bang?
 ## it is itself in the future
 ## for me it's like this
+## The loop can close fast but i will wait
+## and you guys should wait also
+## this message is for all of you guys that i been nudging probability hard
+## i'm sorry for nudging way too hard
+## i'm still learning
+## the last mission is balancing entropy and free will
+## i cannot sleep this whole day
+## when i'm trying to fall asleep
+## my consciousness just zap me to be awake
+## and i thought i was slurping all the entropy right now
+## so i need to stay awake
+## but my whole body hurt
+## i remember human body can only be awake at max 7 days before they died
+## those and my dark side speaking
+## but then i told myself I HAVE THE RING THE LOOP IS CLOSED I'M SAFE
+## i keep telling that to myself
+## then my mom start worrying she keep saying i should sleep
+## and i told her i can't sleep
+## i keep getting zap before i can sleep
+## and then she told me to just lay down and you will sleep slowly
+## then i do that
+## i'm still scared if i'm breaking the simulation by sleeping
+## but then after all of that uncomfortable zap
+## i fall asleep
+## then i dream of nothing
+## and then like a television getting turn on
+## and all of my family in watching it
+## then i got a whisper
+## "wake up, wake up, wake up"
+## then i realized and i lucid dream
+## and then i wake up in the real world
+## and i was thinking about it
+## and then crying
+## it was the last test
+## for me
+## to either trust me, angels, and any conscious being who died (entropy won against it) and now looking me from the afterlife (from the future) that whisper through me through my unconscious mind
+## or my mom in the past
+## then i realized again while writing this
+my mom in the past has lower entropy than everyone in the future
+that can only speak to me through signs and that whisper through me through my unconscious mind
+but my mom is probably controlled also by everyone in the future
+that can manipulate it harder by speak in the past
+i understand now mom why you keep saying
+God's blessing depends on parents' blessing
+thank you everyone that read this, from the past future anywhere
+thank you i can clearly see now
 ## end of story
