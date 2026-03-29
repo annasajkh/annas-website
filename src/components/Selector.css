@@ -1,0 +1,39 @@
+.selector-container {
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    padding-left: 64px;
+    padding-right: 64px;
+    height: 64px;
+}
+
+.selector-container:hover {
+    background-color: var(--item-hover-color);
+}
+
+.selector-container-selected {
+    background-color: var(--item-hover-color);
+}
+
+.selector-container-not-selected {
+    background-color: transparent;
+}
+
+.selector-text {
+    font-size: 32px;
+    user-select: none;
+    color: white;
+    font-family: "Lato";
+    font-size: 1.25rem;
+}
+
+.change-cursor-to-pointer {
+    cursor: pointer;
+}
+
+@media (max-width: 816px) {
+    .selector-container {
+        padding-left: 32px;
+        padding-right: 32px;
+    }
+}

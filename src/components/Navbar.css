@@ -1,0 +1,24 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    width: 100%;
+    position: fixed;
+    z-index: 10;
+    background: var(--item-color);
+    border-bottom: 1px solid var(--border-color);
+    box-shadow: 0 0 10px var(--border-color);
+}
+
+@media (max-width: 816px) {
+    .selector-link {
+        scale: 75%;
+    }
+
+    .navbar {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+}
