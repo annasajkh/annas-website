@@ -26,7 +26,6 @@ export default function App() {
                         <Route path="/contact" element={<Contact />} />
 
                         <Route path="blogs/why_i_think_cs_is_the_most_beautiful_programming_language" element={<Blog title="Why I Think C# Is The Most Beautiful Programming Language" date="September 30, 2024" markdownContentPath="/blogs/why_i_think_cs_is_the_most_beautiful_programming_language.md"  />} />
-                        
                     </Routes>
                 </MainArea>
             </HashRouter>

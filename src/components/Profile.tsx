@@ -9,7 +9,7 @@ export default function Profile() {
                 <img className="profile-img" src={cat} />
             </div>
 
-            <p className="profile-description">Hi, my name is Annas i like to know how the universe work, code, and draw</p>
+            <p className="profile-description">Hi, my name is Annas i like to code and draw</p>
         </div>
     );
 }
